@@ -26,7 +26,9 @@ for my $idx (0..$#agree) {
         n_disagree => $disagree[$idx],
         comment_body => $comment_body,
         percentage => int(($agree[$idx] / ($agree[$idx] + $disagree[$idx])) * 10000) / 100,
-    } if $moderated == 1;
+    } if $moderated == 1 and ($agree[$idx] + $disagree[$idx]) >= 5;
 }
 @result = sort { $b->{percentage} <=> $a->{percentage} } @result;
+my $id = 0;
+$_->{id} = ++$id for @result;
 print JSON::XS->new->pretty(1)->encode(\@result);
