@@ -31,4 +31,4 @@ for my $idx (0..$#agree) {
 @result = sort { $b->{percentage} <=> $a->{percentage} } @result;
 my $id = 0;
 $_->{id} = ++$id for @result;
-print JSON::XS->new->pretty(1)->encode(\@result);
+print JSON::XS->new->pretty(1)->canonical(1)->encode(\@result);
