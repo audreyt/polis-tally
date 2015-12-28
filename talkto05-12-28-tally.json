@@ -1,0 +1,202 @@
+[
+   {
+      "comment_body" : "我覺得食安法需要修正",
+      "id" : 1,
+      "idx" : 16,
+      "n_agree" : 54,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我覺得未知的，檢驗不出來的才是最可怕的",
+      "id" : 2,
+      "idx" : 20,
+      "n_agree" : 35,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我覺得如果為了吃得健康及食品安全，廠商成本增加，農產品及吃的物價大幅上升我會接受!!",
+      "id" : 3,
+      "idx" : 31,
+      "n_agree" : 17,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我覺得目前的食品資訊不足，讓消費者無法做出安全的選擇。",
+      "id" : 4,
+      "idx" : 4,
+      "n_agree" : 68,
+      "n_disagree" : 1,
+      "percentage" : 98.55
+   },
+   {
+      "comment_body" : "我覺得維護食品安全，讓人民免於恐懼，是政府最重要的責任之一。",
+      "id" : 5,
+      "idx" : 3,
+      "n_agree" : 66,
+      "n_disagree" : 1,
+      "percentage" : 98.5
+   },
+   {
+      "comment_body" : "我每天至少有一餐外食。",
+      "id" : 6,
+      "idx" : 1,
+      "n_agree" : 64,
+      "n_disagree" : 2,
+      "percentage" : 96.96
+   },
+   {
+      "comment_body" : "我覺得食品安全應該要重罰，而且得採突擊檢查制",
+      "id" : 7,
+      "idx" : 13,
+      "n_agree" : 63,
+      "n_disagree" : 2,
+      "percentage" : 96.92
+   },
+   {
+      "comment_body" : "我覺得國家與其花錢在健保補助 倒不如投入友善環境的種植過程與安全食品生產 從源頭減低健康風險",
+      "id" : 8,
+      "idx" : 24,
+      "n_agree" : 22,
+      "n_disagree" : 1,
+      "percentage" : 95.65
+   },
+   {
+      "comment_body" : "我覺得要增設專責食品安全檢驗單位",
+      "id" : 9,
+      "idx" : 17,
+      "n_agree" : 41,
+      "n_disagree" : 3,
+      "percentage" : 93.18
+   },
+   {
+      "comment_body" : "我覺得對黑心食品生產者的判決太輕了。",
+      "id" : 10,
+      "idx" : 5,
+      "n_agree" : 63,
+      "n_disagree" : 5,
+      "percentage" : 92.64
+   },
+   {
+      "comment_body" : "林鳳營買一送一我也不會買",
+      "id" : 11,
+      "idx" : 11,
+      "n_agree" : 66,
+      "n_disagree" : 6,
+      "percentage" : 91.66
+   },
+   {
+      "comment_body" : "我覺得抽檢抽驗一點點原料根本驗不出有危險、有問題的食品",
+      "id" : 12,
+      "idx" : 15,
+      "n_agree" : 46,
+      "n_disagree" : 5,
+      "percentage" : 90.19
+   },
+   {
+      "comment_body" : "習慣說假話的人，做不出真正的食物",
+      "id" : 13,
+      "idx" : 12,
+      "n_agree" : 49,
+      "n_disagree" : 6,
+      "percentage" : 89.09
+   },
+   {
+      "comment_body" : "我覺得餐廳應該要自主列出食品來源",
+      "id" : 14,
+      "idx" : 19,
+      "n_agree" : 40,
+      "n_disagree" : 5,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "食安把關是全民的責任",
+      "id" : 15,
+      "idx" : 18,
+      "n_agree" : 32,
+      "n_disagree" : 5,
+      "percentage" : 86.48
+   },
+   {
+      "comment_body" : "個人以為食安問題之一是因為在台灣，用黑心原料利潤遠大於刑罰所以黑心商人才會如此囂張跋扈，反正大都不了了之(甚至完全沒事);另外就是政府的審核機制完全已失公信力，需非官方的食安檢驗認證機構",
+      "id" : 16,
+      "idx" : 28,
+      "n_agree" : 16,
+      "n_disagree" : 3,
+      "percentage" : 84.21
+   },
+   {
+      "comment_body" : "我願意多花一點錢購買安全的食物。希望有一個非官方的食安檢驗認證機構，我願意相信那個機構勝過政府。",
+      "id" : 17,
+      "idx" : 22,
+      "n_agree" : 24,
+      "n_disagree" : 5,
+      "percentage" : 82.75
+   },
+   {
+      "comment_body" : "蔡英文：增加食安查驗預算10倍: 民主進步黨總統參選人蔡英文今天表示，頂新案顯示立法、行政與司法部門不足，她提出食品安全五環政策，增加查驗預算和能力10倍，並成立毒物檢驗機構和追蹤系統。... https://t.co/wwFtkOGPAp",
+      "id" : 18,
+      "idx" : 7,
+      "n_agree" : 26,
+      "n_disagree" : 8,
+      "percentage" : 76.47
+   },
+   {
+      "comment_body" : "感覺送檢驗的東西都是\"特別製作\"，與市面上買的有落差。",
+      "id" : 19,
+      "idx" : 29,
+      "n_agree" : 13,
+      "n_disagree" : 4,
+      "percentage" : 76.47
+   },
+   {
+      "comment_body" : "我覺得不能讓廠商自己送檢，也不能自我管理。",
+      "id" : 20,
+      "idx" : 14,
+      "n_agree" : 33,
+      "n_disagree" : 14,
+      "percentage" : 70.21
+   },
+   {
+      "comment_body" : "宋楚瑜要解決食安問題 多管齊下提出5大要點 https://t.co/jwLtOwzkRK",
+      "id" : 21,
+      "idx" : 8,
+      "n_agree" : 16,
+      "n_disagree" : 15,
+      "percentage" : 51.61
+   },
+   {
+      "comment_body" : "朱立倫要做政治總鋪師 趕走黑心廠商: 「我煮菜的功夫雖然只是徒弟級的，但推動台灣拚經濟，是真正第一名的大師傅。」國民黨總統參選人朱立倫與副手王如玄13日在「全國餐飲業後援會成立大會」上，宣示用公開食品來源資訊、生產履歷來解決食安… https://t.co/hyXmsWMh5L",
+      "id" : 22,
+      "idx" : 6,
+      "n_agree" : 8,
+      "n_disagree" : 26,
+      "percentage" : 23.52
+   },
+   {
+      "comment_body" : "我其實對食品安全無感",
+      "id" : 23,
+      "idx" : 10,
+      "n_agree" : 10,
+      "n_disagree" : 54,
+      "percentage" : 15.62
+   },
+   {
+      "comment_body" : "我覺得可樂都可以喝了，有什麼東西真的很毒嗎？",
+      "id" : 24,
+      "idx" : 21,
+      "n_agree" : 4,
+      "n_disagree" : 24,
+      "percentage" : 14.28
+   },
+   {
+      "comment_body" : "我在農漁業、食品業、或餐飲業工作。",
+      "id" : 25,
+      "idx" : 2,
+      "n_agree" : 5,
+      "n_disagree" : 33,
+      "percentage" : 13.15
+   }
+]
