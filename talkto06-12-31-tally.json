@@ -1,0 +1,234 @@
+[
+   {
+      "comment_body" : "我覺得國會議員應該秉持多元觀點傾聽外，也要敢於闡述自身的立場與理由。",
+      "id" : 1,
+      "idx" : 26,
+      "n_agree" : 21,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我覺得政黨不應該用甲級動員或是要脅開除黨籍的方式逼立法委員表達特定立場的意見",
+      "id" : 2,
+      "idx" : 27,
+      "n_agree" : 15,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "國會議員請多花時間精力關注國家政策法案議題，不要只搶做地方議員層級事務。",
+      "id" : 3,
+      "idx" : 16,
+      "n_agree" : 39,
+      "n_disagree" : 1,
+      "percentage" : 97.5
+   },
+   {
+      "comment_body" : "選舉制度改革  讓立委不用再把自己當成地方民代  能夠專注國家層次議題",
+      "id" : 4,
+      "idx" : 21,
+      "n_agree" : 27,
+      "n_disagree" : 1,
+      "percentage" : 96.42
+   },
+   {
+      "comment_body" : "我覺得立委的水準需要通盤的提升",
+      "id" : 5,
+      "idx" : 9,
+      "n_agree" : 40,
+      "n_disagree" : 2,
+      "percentage" : 95.23
+   },
+   {
+      "comment_body" : "我覺得需要更多如公督盟這樣的第三方組織來監督國會 制衡國會",
+      "id" : 6,
+      "idx" : 10,
+      "n_agree" : 38,
+      "n_disagree" : 2,
+      "percentage" : 95
+   },
+   {
+      "comment_body" : "國會改革要從政黨寡頭決定的政黨協商主義，轉變成能夠公開討論的委員會中心主義",
+      "id" : 7,
+      "idx" : 12,
+      "n_agree" : 35,
+      "n_disagree" : 2,
+      "percentage" : 94.59
+   },
+   {
+      "comment_body" : "我覺得罷免立委門檻應該要下修(可以有效的淘汰不適任的立委)",
+      "id" : 8,
+      "idx" : 14,
+      "n_agree" : 34,
+      "n_disagree" : 2,
+      "percentage" : 94.44
+   },
+   {
+      "comment_body" : "新國會應該推動修憲，修正國家制度",
+      "id" : 9,
+      "idx" : 11,
+      "n_agree" : 33,
+      "n_disagree" : 2,
+      "percentage" : 94.28
+   },
+   {
+      "comment_body" : "我覺得一般的民眾不了解單一選區兩票制，聯立制/並立制等這些制度的內涵與差別",
+      "id" : 10,
+      "idx" : 28,
+      "n_agree" : 13,
+      "n_disagree" : 1,
+      "percentage" : 92.85
+   },
+   {
+      "comment_body" : "我們的國會需要更務實的人才，除了清楚知道自己能力的限制之外，以自己的專長懇切地做出判斷；並能和其他專長的人合作，更要懂得傾聽。",
+      "id" : 11,
+      "idx" : 25,
+      "n_agree" : 24,
+      "n_disagree" : 2,
+      "percentage" : 92.3
+   },
+   {
+      "comment_body" : "我覺得立委應該對言論負責，不應該一直開記者會放話",
+      "id" : 12,
+      "idx" : 17,
+      "n_agree" : 31,
+      "n_disagree" : 3,
+      "percentage" : 91.17
+   },
+   {
+      "comment_body" : "我覺得立法院遇到重大事項，都應該舉行公聽會，納入公民意見。\n",
+      "id" : 13,
+      "idx" : 7,
+      "n_agree" : 40,
+      "n_disagree" : 4,
+      "percentage" : 90.9
+   },
+   {
+      "comment_body" : "我已經有支持的總統候選人，會投票選總統。",
+      "id" : 14,
+      "idx" : 2,
+      "n_agree" : 32,
+      "n_disagree" : 4,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "我覺得新國會選後應該趁早進行憲改，修正台灣的政府制度問題",
+      "id" : 15,
+      "idx" : 29,
+      "n_agree" : 7,
+      "n_disagree" : 1,
+      "percentage" : 87.5
+   },
+   {
+      "comment_body" : "我覺得密室黨團協商制度應該廢除，讓法案回歸常設委員會決定。\n",
+      "id" : 16,
+      "idx" : 6,
+      "n_agree" : 38,
+      "n_disagree" : 6,
+      "percentage" : 86.36
+   },
+   {
+      "comment_body" : "我覺得監察院應與立法院配合，落實國會調察權。",
+      "id" : 17,
+      "idx" : 8,
+      "n_agree" : 27,
+      "n_disagree" : 5,
+      "percentage" : 84.37
+   },
+   {
+      "comment_body" : "儘管選票可能會浪費，我不分區依然會投給小黨",
+      "id" : 18,
+      "idx" : 19,
+      "n_agree" : 27,
+      "n_disagree" : 5,
+      "percentage" : 84.37
+   },
+   {
+      "comment_body" : "我覺得人民沒有認真的去看立委的政見及能力，大家都是以黨選人。",
+      "id" : 19,
+      "idx" : 24,
+      "n_agree" : 26,
+      "n_disagree" : 5,
+      "percentage" : 83.87
+   },
+   {
+      "comment_body" : "我覺得立法院的黨意，凌駕專業立委的個別能力。\n",
+      "id" : 20,
+      "idx" : 5,
+      "n_agree" : 37,
+      "n_disagree" : 8,
+      "percentage" : 82.22
+   },
+   {
+      "comment_body" : "我覺得立法院的任何討論事項都應該公開透明",
+      "id" : 21,
+      "idx" : 15,
+      "n_agree" : 32,
+      "n_disagree" : 7,
+      "percentage" : 82.05
+   },
+   {
+      "comment_body" : "我覺得應降低5%不分區席次分配門檻，以求小黨生存。",
+      "id" : 22,
+      "idx" : 18,
+      "n_agree" : 32,
+      "n_disagree" : 7,
+      "percentage" : 82.05
+   },
+   {
+      "comment_body" : "我已經有支持的區域候選人，會投票選立委。",
+      "id" : 23,
+      "idx" : 1,
+      "n_agree" : 32,
+      "n_disagree" : 8,
+      "percentage" : 80
+   },
+   {
+      "comment_body" : "我覺得不知道立委有沒有在做事",
+      "id" : 24,
+      "idx" : 22,
+      "n_agree" : 24,
+      "n_disagree" : 7,
+      "percentage" : 77.41
+   },
+   {
+      "comment_body" : "我覺得現在的立委選舉方式有問題，區域立委應該大幅減少，現在每個區域的區民落差太大，一個區可能有企業家、遊民、教授、黑道，這樣字選出的立委沒辦法發出大家的聲音。",
+      "id" : 25,
+      "idx" : 23,
+      "n_agree" : 13,
+      "n_disagree" : 6,
+      "percentage" : 68.42
+   },
+   {
+      "comment_body" : "我覺得目前的選制，讓我投的票有可能變成廢票。",
+      "id" : 26,
+      "idx" : 3,
+      "n_agree" : 29,
+      "n_disagree" : 14,
+      "percentage" : 67.44
+   },
+   {
+      "comment_body" : "我覺得台灣應該走向內閣制",
+      "id" : 27,
+      "idx" : 13,
+      "n_agree" : 13,
+      "n_disagree" : 9,
+      "percentage" : 59.09
+   },
+   {
+      "comment_body" : "我覺得立委應該要全面年輕化",
+      "id" : 28,
+      "idx" : 20,
+      "n_agree" : 14,
+      "n_disagree" : 14,
+      "percentage" : 50
+   },
+   {
+      "comment_body" : "我對本屆立法院的表現感到滿意。\n",
+      "id" : 29,
+      "idx" : 4,
+      "n_agree" : 3,
+      "n_disagree" : 45,
+      "percentage" : 6.25
+   }
+]
