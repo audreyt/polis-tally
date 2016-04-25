@@ -1,0 +1,186 @@
+[
+   {
+      "comment_body" : "我覺得政府有責任讓公民清楚瞭解政策形成的相關資料。",
+      "id" : 1,
+      "idx" : 6,
+      "n_agree" : 49,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我覺得如果要以投票來在進入投票之前，必須有充分名詞定義，意見揭露，還有充足的對立意見作為判斷。",
+      "id" : 2,
+      "idx" : 11,
+      "n_agree" : 27,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為網路最可貴的，不在可以輕易的讓多數人以投票行為選擇。而是可以自由的，容易的，找到不同的利害關係人，來提供多元意見。",
+      "id" : 3,
+      "idx" : 12,
+      "n_agree" : 30,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為網路上的文字討論需要有人做適當引導、釐清、提供資訊等「小編」角色，才能有好的討論品質。",
+      "id" : 4,
+      "idx" : 17,
+      "n_agree" : 16,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為引導政策討論的網路小編是一種專業。",
+      "id" : 5,
+      "idx" : 18,
+      "n_agree" : 19,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "每個網路公民在討論中，需要浮出在視野內的應該是符合邏輯、舉證豐富的內容，而不是與自己相同的意見。",
+      "id" : 6,
+      "idx" : 20,
+      "n_agree" : 11,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我覺得網路的「音量與群體大小不一定成正比」的特性，會放大特定族群的言論",
+      "id" : 7,
+      "idx" : 9,
+      "n_agree" : 39,
+      "n_disagree" : 1,
+      "percentage" : 97.5
+   },
+   {
+      "comment_body" : "我覺得在政策制定上，工商協會的實質影響力，超過公民社會的影響力。",
+      "id" : 8,
+      "idx" : 3,
+      "n_agree" : 42,
+      "n_disagree" : 2,
+      "percentage" : 95.45
+   },
+   {
+      "comment_body" : "我覺得每個地方的都市計劃、環境政策制定，都應該讓受影響的人充份參與決定。",
+      "id" : 9,
+      "idx" : 7,
+      "n_agree" : 42,
+      "n_disagree" : 2,
+      "percentage" : 95.45
+   },
+   {
+      "comment_body" : "我覺得各方利益相關者，都有責任充份揭露自己在影響政策制定時的利益和目的。",
+      "id" : 10,
+      "idx" : 8,
+      "n_agree" : 42,
+      "n_disagree" : 4,
+      "percentage" : 91.3
+   },
+   {
+      "comment_body" : "我覺得 Polis 就是很好的一種網路意見彙整方式",
+      "id" : 11,
+      "idx" : 16,
+      "n_agree" : 12,
+      "n_disagree" : 2,
+      "percentage" : 85.71
+   },
+   {
+      "comment_body" : "我參與過實體政治遊行、集會等活動。",
+      "id" : 12,
+      "idx" : 2,
+      "n_agree" : 37,
+      "n_disagree" : 7,
+      "percentage" : 84.09
+   },
+   {
+      "comment_body" : "我曾經在網路上參與政治相關討論、意見徵集等活動。",
+      "id" : 13,
+      "idx" : 1,
+      "n_agree" : 34,
+      "n_disagree" : 8,
+      "percentage" : 80.95
+   },
+   {
+      "comment_body" : "我認為運用固定選項投票來調查網路意見，抽樣上本身是比民調還不靠譜的工具。",
+      "id" : 14,
+      "idx" : 13,
+      "n_agree" : 15,
+      "n_disagree" : 6,
+      "percentage" : 71.42
+   },
+   {
+      "comment_body" : "我覺得網路上過多的意見會讓參與門檻提高，以致於沒有時間/精力的參與者依然沒有辦法參與網路政策討論。",
+      "id" : 15,
+      "idx" : 14,
+      "n_agree" : 12,
+      "n_disagree" : 8,
+      "percentage" : 60
+   },
+   {
+      "comment_body" : "我認為網路公民社會裡需要進行正反思辨的議題討論，不適合直接架設在社群網路上。",
+      "id" : 16,
+      "idx" : 19,
+      "n_agree" : 7,
+      "n_disagree" : 5,
+      "percentage" : 58.33
+   },
+   {
+      "comment_body" : "我覺得在網路上的討論很容易失去焦點，還是要實體聚會才能做出決定。",
+      "id" : 17,
+      "idx" : 4,
+      "n_agree" : 20,
+      "n_disagree" : 20,
+      "percentage" : 50
+   },
+   {
+      "comment_body" : "comment-body",
+      "id" : 18,
+      "idx" : 0,
+      "n_agree" : 15,
+      "n_disagree" : 28,
+      "percentage" : 34.88
+   },
+   {
+      "comment_body" : "我覺得網路討論只會發散，難以聚焦在具體的討論進度上",
+      "id" : 19,
+      "idx" : 15,
+      "n_agree" : 6,
+      "n_disagree" : 12,
+      "percentage" : 33.33
+   },
+   {
+      "comment_body" : "網路意見都是被簡化到錯誤百出、像轉型正義是台獨日奴自創，假造英文網站充斥台式英文詐騙集團首法騙人，台灣人崇洋媚外，一看到英文就認為是真的",
+      "id" : 20,
+      "idx" : 22,
+      "n_agree" : 3,
+      "n_disagree" : 6,
+      "percentage" : 33.33
+   },
+   {
+      "comment_body" : "大家都有責任做很多事、盡很多義務，但真正的問題往往是如何規避責任，權利最大化，義務最小化。在這方面我們都答得很好。僅僅把原則確定下來，雖然可以硬說這建立了某種共識，可是當我們念茲在茲的是鬥爭，一切共識以及雜七雜八的東西都會淪為鬥爭器具。必須在此最壞最惡的前提上進行一切討論。",
+      "id" : 21,
+      "idx" : 10,
+      "n_agree" : 4,
+      "n_disagree" : 12,
+      "percentage" : 25
+   },
+   {
+      "comment_body" : "台灣政策被日奴民進黨人士惡意扭曲的，一人意見申報十組就變群體，意見分歧就抹黑貶低在用假公正來騙人，吳念真就是一例",
+      "id" : 22,
+      "idx" : 21,
+      "n_agree" : 2,
+      "n_disagree" : 9,
+      "percentage" : 18.18
+   },
+   {
+      "comment_body" : "我覺得人民有言論自由、投票權利已經足夠，要進一步參與政策實在太花時間了。",
+      "id" : 23,
+      "idx" : 5,
+      "n_agree" : 6,
+      "n_disagree" : 41,
+      "percentage" : 12.76
+   }
+]

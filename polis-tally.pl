@@ -20,13 +20,14 @@ for my $idx (0..$#agree) {
     my ($comment_id,$author_id,$agrees,$disagrees,$moderated,$comment_body) = @{
         (grep { $_->[0] == $idx } @$aoa)[0]
     };
+    $comment_body =~ s/\s*$//;
     push @result, {
         idx => $idx,
         n_agree => $agree[$idx],
         n_disagree => $disagree[$idx],
         comment_body => $comment_body,
         percentage => int(($agree[$idx] / ($agree[$idx] + $disagree[$idx])) * 10000) / 100,
-    } if $moderated == 1 and ($agree[$idx] + $disagree[$idx]) >= 5;
+    } if ($agree[$idx] + $disagree[$idx]) >= 5;
 }
 @result = sort { $b->{percentage} <=> $a->{percentage} } @result;
 my $id = 0;
