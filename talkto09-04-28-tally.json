@@ -1,0 +1,146 @@
+[
+   {
+      "comment_body" : "我覺得「災害潛勢」地圖應為一般使用者加入更友善的導覽說明。",
+      "id" : 1,
+      "idx" : "9",
+      "n_agree" : 36,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "國家的土地利益被少數人把持",
+      "id" : 2,
+      "idx" : "14",
+      "n_agree" : 17,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "國土計畫法的框架很大，但是執行細節也很重要",
+      "id" : 3,
+      "idx" : "15",
+      "n_agree" : 17,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我願意進一步瞭解《國土計畫法》。",
+      "id" : 4,
+      "idx" : "8",
+      "n_agree" : 45,
+      "n_disagree" : 1,
+      "percentage" : 97.82
+   },
+   {
+      "comment_body" : "整個國土的問題錯縱複雜，政府應該要調整組織，設立專責機構，建立跨部會溝通機制",
+      "id" : 5,
+      "idx" : "13",
+      "n_agree" : 16,
+      "n_disagree" : 1,
+      "percentage" : 94.11
+   },
+   {
+      "comment_body" : "我覺得在處理各項議題時，不應非黑即白的對立化，而應該了解許多現存問題的歷史成因，並且兼顧各方立場地思考對策，才不會淪於今是昨非、以前聽從政策的人民今日卻無所適從的窘況",
+      "id" : 6,
+      "idx" : "16",
+      "n_agree" : 14,
+      "n_disagree" : 1,
+      "percentage" : 93.33
+   },
+   {
+      "comment_body" : "水價調整必然是首要推動的條件，而且工業用水調整比例要比民用高，同時也必須加上完整的配套措施",
+      "id" : 7,
+      "idx" : "17",
+      "n_agree" : 14,
+      "n_disagree" : 1,
+      "percentage" : 93.33
+   },
+   {
+      "comment_body" : "我願意參加自己縣市的區域國土計劃討論。",
+      "id" : 8,
+      "idx" : "6",
+      "n_agree" : 36,
+      "n_disagree" : 3,
+      "percentage" : 92.3
+   },
+   {
+      "comment_body" : "我覺得違章工廠問題，應該優先處理。",
+      "id" : 9,
+      "idx" : "4",
+      "n_agree" : 34,
+      "n_disagree" : 3,
+      "percentage" : 91.89
+   },
+   {
+      "comment_body" : "我願意參加全國國土計畫的公民審議。",
+      "id" : 10,
+      "idx" : "7",
+      "n_agree" : 30,
+      "n_disagree" : 3,
+      "percentage" : 90.9
+   },
+   {
+      "comment_body" : "我覺得土地污染問題，應該優先處理。",
+      "id" : 11,
+      "idx" : "5",
+      "n_agree" : 38,
+      "n_disagree" : 4,
+      "percentage" : 90.47
+   },
+   {
+      "comment_body" : "我覺得農地徵收問題，應該優先處理。",
+      "id" : 12,
+      "idx" : "3",
+      "n_agree" : 23,
+      "n_disagree" : 8,
+      "percentage" : 74.19
+   },
+   {
+      "comment_body" : "我覺得一般民眾根本不認為國土有什麼問題，直到有東西倒掉了為止",
+      "id" : 13,
+      "idx" : "11",
+      "n_agree" : 17,
+      "n_disagree" : 7,
+      "percentage" : 70.83
+   },
+   {
+      "comment_body" : "我覺得國土問題永遠不會成為主流議題",
+      "id" : 14,
+      "idx" : "10",
+      "n_agree" : 9,
+      "n_disagree" : 14,
+      "percentage" : 39.13
+   },
+   {
+      "comment_body" : "我曾經參與過颱風、水災重建。",
+      "id" : 15,
+      "idx" : "0",
+      "n_agree" : 6,
+      "n_disagree" : 24,
+      "percentage" : 20
+   },
+   {
+      "comment_body" : "我覺得清境民宿很好住 跟水土保持沒關係啊",
+      "id" : 16,
+      "idx" : "12",
+      "n_agree" : 4,
+      "n_disagree" : 20,
+      "percentage" : 16.66
+   },
+   {
+      "comment_body" : "我曾經參與山崩、土石流重建。",
+      "id" : 17,
+      "idx" : "1",
+      "n_agree" : 4,
+      "n_disagree" : 24,
+      "percentage" : 14.28
+   },
+   {
+      "comment_body" : "我曾經參與過震災重建。",
+      "id" : 18,
+      "idx" : "2",
+      "n_agree" : 4,
+      "n_disagree" : 24,
+      "percentage" : 14.28
+   }
+]

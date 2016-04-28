@@ -17,8 +17,8 @@ my @result;
 for my $idx (0..$#agree) {
     $agree[$idx] //= 0;
     $disagree[$idx] //= 0;
-    my ($comment_id,$author_id,$agrees,$disagrees,$moderated,$comment_body) = @{
-        (grep { $_->[0] == $idx } @$aoa)[0]
+    my ($timestamp,$comment_id,$author_id,$agrees,$disagrees,$moderated,$comment_body) = @{
+        (grep { $_->[1] eq $idx } @$aoa)[0]
     };
     $comment_body =~ s/\s*$//;
     push @result, {
