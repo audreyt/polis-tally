@@ -1,0 +1,338 @@
+[
+   {
+      "comment_body" : "我認為政務官應該多認識資通訊系統，而不是只習慣於紙本作業。",
+      "id" : 1,
+      "idx" : "6",
+      "n_agree" : 67,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我相信資訊系統反應的是全民協作與全民溝通。換言之，資訊國家，國家真正的主體是公民。我們不能認為公務員用資訊系統解決一切，國民需要資訊教育，需要瞭解資訊是一種公共義務。",
+      "id" : 2,
+      "idx" : "20",
+      "n_agree" : 43,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為政府應停止將戶政系統外包給中國大陸的公司。",
+      "id" : 3,
+      "idx" : "22",
+      "n_agree" : 28,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "涉及政府核心功能的系統，政府應設制正式的單位，培養人才去建制及維謢，而不是當工程標案一件一件外包給私人公司。",
+      "id" : 4,
+      "idx" : "23",
+      "n_agree" : 23,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我覺得政府內部資訊交換太弱了。舉例來說，請假用的差勤系統的代理人和公文的代理人設定居然沒有同步，需要各別進入不同系統操作。",
+      "id" : 5,
+      "idx" : "32",
+      "n_agree" : 26,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "要規劃「資訊架構」，讓「公開資訊」容易被取得、理解、傳遞和呈現不同面向。",
+      "id" : 6,
+      "idx" : "34",
+      "n_agree" : 24,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "學習概念最好的方法，就是給予範例(examples)說明。政府應該把資訊能解決的問題公開出來，得到解法後把方法公開讓所有人參考。從政府資訊標案開源開始。",
+      "id" : 7,
+      "idx" : "35",
+      "n_agree" : 23,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "工程、勞務、財物三大政府採購分類裡，已存在的工程標案管理系統應有再發揮的空間。例如直接發展為承辦單位可用的工程管理功能，或開放工程標案資料。",
+      "id" : 8,
+      "idx" : "37",
+      "n_agree" : 12,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為主事者要能回答這問題，需要先確立建立資訊國力的原始初衷（why），明白資訊技術只是手段（how、what），如此一來，也才能就 why 來與各界溝通協調。",
+      "id" : 9,
+      "idx" : "40",
+      "n_agree" : 17,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我覺得要引入OKR制度前，應將OKR制度的應用細節以中文解說得更詳細，無論是原創或翻譯都行。目前媒體片面的成功經驗報導，只有概說，細節太少，並不足以拿來活用。",
+      "id" : 10,
+      "idx" : "41",
+      "n_agree" : 12,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為公務協作平台可以提升整體效率，並大量減少重覆作業。",
+      "id" : 11,
+      "idx" : "9",
+      "n_agree" : 51,
+      "n_disagree" : 1,
+      "percentage" : 98.07
+   },
+   {
+      "comment_body" : "我認為繁雜的事務工作應該盡量交給電腦處理，公務員才能有時間規劃目標。",
+      "id" : 12,
+      "idx" : "8",
+      "n_agree" : 57,
+      "n_disagree" : 2,
+      "percentage" : 96.61
+   },
+   {
+      "comment_body" : "使用者需求必需被看見、滿足，並且易於使用。在這個題目裡，應該是第一線使用資料、操作系統、回報資訊的第一線基層人員。他們必需要有好的工具。",
+      "id" : 13,
+      "idx" : "24",
+      "n_agree" : 27,
+      "n_disagree" : 1,
+      "percentage" : 96.42
+   },
+   {
+      "comment_body" : "我願意進一步瞭解《資訊基本法》和《資訊安全管理法》。",
+      "id" : 14,
+      "idx" : "3",
+      "n_agree" : 53,
+      "n_disagree" : 2,
+      "percentage" : 96.36
+   },
+   {
+      "comment_body" : "我認為公務統計表格等資料應該API化，研考單位和主計單位從單一平台上直接呼叫（取得）所需資訊，不用下放到個別承辦人一一填寫。",
+      "id" : 15,
+      "idx" : "10",
+      "n_agree" : 47,
+      "n_disagree" : 2,
+      "percentage" : 95.91
+   },
+   {
+      "comment_body" : "我覺得應該要開放會勘紀錄。而且應該要帶有地理坐標。",
+      "id" : 16,
+      "idx" : "30",
+      "n_agree" : 23,
+      "n_disagree" : 1,
+      "percentage" : 95.83
+   },
+   {
+      "comment_body" : "創造環境，讓程式設計師每分付出得到的更多的影響力。像是 1. 多個部門不要各自開發軟體，共同開發一份程式碼，讓每份程式碼能解決更多人的問題。 2. 設計公開資料取得的流程、多寫共用工具讓開發人員使用 3. 讓其他人能快速取得並參考其他人的程式",
+      "id" : 17,
+      "idx" : "36",
+      "n_agree" : 22,
+      "n_disagree" : 1,
+      "percentage" : 95.65
+   },
+   {
+      "comment_body" : "我認為主計總處的公務會預算會計資訊系統，應該至少要開放對內的唯讀API功能。讓不論是研考單位或執行單位，都能讓自行開發的管理系統或作業平台可以和政府的金流資訊介接。",
+      "id" : 18,
+      "idx" : "38",
+      "n_agree" : 21,
+      "n_disagree" : 1,
+      "percentage" : 95.45
+   },
+   {
+      "comment_body" : "我覺得各部會本位主義、無法橫向溝通，是最大的問題。",
+      "id" : 19,
+      "idx" : "4",
+      "n_agree" : 51,
+      "n_disagree" : 3,
+      "percentage" : 94.44
+   },
+   {
+      "comment_body" : "我覺得研考和綜計單位，是最需要優先強化資訊整合能力的地方。",
+      "id" : 20,
+      "idx" : "33",
+      "n_agree" : 16,
+      "n_disagree" : 1,
+      "percentage" : 94.11
+   },
+   {
+      "comment_body" : "我覺得地理圖資可以開放，但只要和個人隱私相關的資料，就要謹慎評估、寧缺勿濫。",
+      "id" : 21,
+      "idx" : "5",
+      "n_agree" : 60,
+      "n_disagree" : 4,
+      "percentage" : 93.75
+   },
+   {
+      "comment_body" : "我認為公部門應該要有資通安全的意識，而不是什麼網路服務流行就用什麼。",
+      "id" : 22,
+      "idx" : "7",
+      "n_agree" : 60,
+      "n_disagree" : 4,
+      "percentage" : 93.75
+   },
+   {
+      "comment_body" : "我認為公務部門缺乏對正確付出的回饋，這會使人喪失熱情。",
+      "id" : 23,
+      "idx" : "13",
+      "n_agree" : 45,
+      "n_disagree" : 3,
+      "percentage" : 93.75
+   },
+   {
+      "comment_body" : "我認為電子公文系統尚未發揮，對公文進行文本探勘是下一階段可以研究的方向。",
+      "id" : 24,
+      "idx" : "11",
+      "n_agree" : 44,
+      "n_disagree" : 3,
+      "percentage" : 93.61
+   },
+   {
+      "comment_body" : "我想可以發展能從最基層收集資料，能取用資料，能讓承辦人員不用使用word或excel的公務工具。",
+      "id" : 25,
+      "idx" : "25",
+      "n_agree" : 14,
+      "n_disagree" : 1,
+      "percentage" : 93.33
+   },
+   {
+      "comment_body" : "我認為類似政務委員這樣具有跨單位溝通協調性質的角色應該在各階層政府單位被設置，讓單位首長可以專注在目標的制定上",
+      "id" : 26,
+      "idx" : "19",
+      "n_agree" : 37,
+      "n_disagree" : 3,
+      "percentage" : 92.5
+   },
+   {
+      "comment_body" : "我認為OKR制度或其他制度推動時，不應該由上而下的一紙公文要求「依格式填寫並於一週內回報」。需要說明、教育並一個個單位去檢視研究。",
+      "id" : 27,
+      "idx" : "14",
+      "n_agree" : 36,
+      "n_disagree" : 3,
+      "percentage" : 92.3
+   },
+   {
+      "comment_body" : "我覺得公務部門用LINE這樣的溝通工具不夠。公務溝通的工具除了溝通之外，應該還要滿足資料再存取容易、保密性以及直接轉為待辦事項進行工作管理等基本功能。",
+      "id" : 28,
+      "idx" : "31",
+      "n_agree" : 23,
+      "n_disagree" : 2,
+      "percentage" : 92
+   },
+   {
+      "comment_body" : "我覺得 台灣的網路普及率和人民接受新事物的能力，很適合作為科技政府的實驗場與領頭地",
+      "id" : 29,
+      "idx" : "16",
+      "n_agree" : 45,
+      "n_disagree" : 4,
+      "percentage" : 91.83
+   },
+   {
+      "comment_body" : "人民向公部門投訴的事項以及公部門的回覆，除非涉及隱私，不然應該主動公開於可查詢的網路平台上，接受公評，以減少重覆提問與不洽當的回覆。",
+      "id" : 30,
+      "idx" : "21",
+      "n_agree" : 21,
+      "n_disagree" : 2,
+      "percentage" : 91.3
+   },
+   {
+      "comment_body" : "我建言：張善政 院長能  力主公民論壇on line於行政會議上，共同思辨未來的國家政策！例如：(數據)南彰化人口數近十年有減少的趨勢 。早先也有北北基桃等於中華民國人口總數的一半多。大都會的磁吸效應，實際成因是？因應的對策是？資料庫是做不成推理的！以一小鍵盤鄉民而言，力有未殆！",
+      "id" : 31,
+      "idx" : "39",
+      "n_agree" : 8,
+      "n_disagree" : 1,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "我覺得政府內部應該停止做無意義的事，做無意義的事的逞罰應該要比不小心做錯事還重",
+      "id" : 32,
+      "idx" : "17",
+      "n_agree" : 39,
+      "n_disagree" : 5,
+      "percentage" : 88.63
+   },
+   {
+      "comment_body" : "我覺得現在的資訊工具已經能做到，鉅細靡遺的收集各種資料，例如民眾陳情、抱怨、或機關主動檢視後列出的應為事項，然後按人、事、時、地、物分析分類，以地理資訊工具進行管理。",
+      "id" : 33,
+      "idx" : "28",
+      "n_agree" : 21,
+      "n_disagree" : 3,
+      "percentage" : 87.5
+   },
+   {
+      "comment_body" : "所以公務事務、事件，在公部門管理系統端，應該要能呈現在地圖上檢視、討論、分析。",
+      "id" : 34,
+      "idx" : "29",
+      "n_agree" : 14,
+      "n_disagree" : 2,
+      "percentage" : 87.5
+   },
+   {
+      "comment_body" : "我認為公務部門缺乏自動化的量測系統，這造成評量時資料收集形成基層的負擔，或失真。",
+      "id" : 35,
+      "idx" : "12",
+      "n_agree" : 40,
+      "n_disagree" : 6,
+      "percentage" : 86.95
+   },
+   {
+      "comment_body" : "我覺得台灣因為小，應該反而能夠走得很快速",
+      "id" : 36,
+      "idx" : "15",
+      "n_agree" : 35,
+      "n_disagree" : 6,
+      "percentage" : 85.36
+   },
+   {
+      "comment_body" : "我使用過政府開放資料的相關應用。",
+      "id" : 37,
+      "idx" : "2",
+      "n_agree" : 43,
+      "n_disagree" : 9,
+      "percentage" : 82.69
+   },
+   {
+      "comment_body" : "我覺得 lead measures 這種指標工具可以引入公部門。",
+      "id" : 38,
+      "idx" : "27",
+      "n_agree" : 4,
+      "n_disagree" : 1,
+      "percentage" : 80
+   },
+   {
+      "comment_body" : "我覺得OKR制度可以用。",
+      "id" : 39,
+      "idx" : "26",
+      "n_agree" : 7,
+      "n_disagree" : 2,
+      "percentage" : 77.77
+   },
+   {
+      "comment_body" : "我覺得 指數時代 政府再不10倍速前進 就會被 10個像Uber 這樣的公司給擊垮",
+      "id" : 40,
+      "idx" : "18",
+      "n_agree" : 30,
+      "n_disagree" : 9,
+      "percentage" : 76.92
+   },
+   {
+      "comment_body" : "我曾經在資通訊領域工作過。",
+      "id" : 41,
+      "idx" : "0",
+      "n_agree" : 32,
+      "n_disagree" : 10,
+      "percentage" : 76.19
+   },
+   {
+      "comment_body" : "我在採用KPI管理的機關服務過。",
+      "id" : 42,
+      "idx" : "1",
+      "n_agree" : 21,
+      "n_disagree" : 14,
+      "percentage" : 60
+   }
+]
