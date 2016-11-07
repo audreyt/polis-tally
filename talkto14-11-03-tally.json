@@ -1,0 +1,194 @@
+[
+   {
+      "comment_body" : "希望能有網路平台提供獨立書店的進書資訊， 增加人們Shop online, Buy local的動力， 來支持致力於帶領風氣與思想碰撞的獨立書店。",
+      "id" : 1,
+      "idx" : "22",
+      "n_agree" : 27,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "會因為網路閱讀或深入評析，而購買實體書籍閱讀",
+      "id" : 2,
+      "idx" : "12",
+      "n_agree" : 79,
+      "n_disagree" : 2,
+      "percentage" : 97.53
+   },
+   {
+      "comment_body" : "我願意進一步瞭解「圖書統一定價」這個政策。",
+      "id" : 3,
+      "idx" : "7",
+      "n_agree" : 73,
+      "n_disagree" : 2,
+      "percentage" : 97.33
+   },
+   {
+      "comment_body" : "我覺得閱讀紙本的感受，比看螢幕舒服。",
+      "id" : 4,
+      "idx" : "6",
+      "n_agree" : 81,
+      "n_disagree" : 5,
+      "percentage" : 94.18
+   },
+   {
+      "comment_body" : "願意以集資或其他形式協助有趣的出版",
+      "id" : 5,
+      "idx" : "13",
+      "n_agree" : 68,
+      "n_disagree" : 5,
+      "percentage" : 93.15
+   },
+   {
+      "comment_body" : "不介意購買二手書",
+      "id" : 6,
+      "idx" : "8",
+      "n_agree" : 78,
+      "n_disagree" : 6,
+      "percentage" : 92.85
+   },
+   {
+      "comment_body" : "好的封面設計、編排會增加我購買這本書的慾望",
+      "id" : 7,
+      "idx" : "21",
+      "n_agree" : 38,
+      "n_disagree" : 3,
+      "percentage" : 92.68
+   },
+   {
+      "comment_body" : "有閱讀習慣或喜愛閱讀的人，不設限於網路或實體書籍，網路閱讀會持續增量，實體出版必受震盪但終究如同盤整不會產業死亡。",
+      "id" : 8,
+      "idx" : "15",
+      "n_agree" : 68,
+      "n_disagree" : 6,
+      "percentage" : 91.89
+   },
+   {
+      "comment_body" : "如果同一本書有紙本和電子版，我會閱讀紙本。",
+      "id" : 9,
+      "idx" : "4",
+      "n_agree" : 64,
+      "n_disagree" : 6,
+      "percentage" : 91.42
+   },
+   {
+      "comment_body" : "我有逛書店的習慣。",
+      "id" : 10,
+      "idx" : "1",
+      "n_agree" : 71,
+      "n_disagree" : 7,
+      "percentage" : 91.02
+   },
+   {
+      "comment_body" : "如果用原價購買，可以持續支持喜愛的出版社、作家、設計師與編輯，那麼即便沒有折扣，也是可以被接受的",
+      "id" : 11,
+      "idx" : "20",
+      "n_agree" : 31,
+      "n_disagree" : 4,
+      "percentage" : 88.57
+   },
+   {
+      "comment_body" : "謝謝郝明義先生、謝謝鐵志大哥和政問團隊！政府不夠長進，我們得靠民間人們的努力、力量，來推著人民選出來、人民賦予他們權力、人民納稅支付他們薪水、供養他們生活的總統、民意代表、政府官員等整個臺灣的政府一步一步改善、一步一步向前邁進、向上提升！謝謝你們所有的努力... Love。",
+      "id" : 12,
+      "idx" : "23",
+      "n_agree" : 11,
+      "n_disagree" : 2,
+      "percentage" : 84.61
+   },
+   {
+      "comment_body" : "碰到喜歡的書，我會參加活動，和作者見面。",
+      "id" : 13,
+      "idx" : "3",
+      "n_agree" : 54,
+      "n_disagree" : 10,
+      "percentage" : 84.37
+   },
+   {
+      "comment_body" : "出版業不會是夕陽產業，只是會改變形式，變相的服務業!",
+      "id" : 14,
+      "idx" : "19",
+      "n_agree" : 30,
+      "n_disagree" : 6,
+      "percentage" : 83.33
+   },
+   {
+      "comment_body" : "我有圖書館的借閱證。",
+      "id" : 15,
+      "idx" : "2",
+      "n_agree" : 59,
+      "n_disagree" : 13,
+      "percentage" : 81.94
+   },
+   {
+      "comment_body" : "會因為喜歡的出版社而增加購書意願進而開拓不同觀點的閱讀",
+      "id" : 16,
+      "idx" : "9",
+      "n_agree" : 59,
+      "n_disagree" : 13,
+      "percentage" : 81.94
+   },
+   {
+      "comment_body" : "雖然一直聽到出版業蕭條，但更多不同型態與小型或獨立的出版不斷出現，反而更有活力",
+      "id" : 17,
+      "idx" : "11",
+      "n_agree" : 54,
+      "n_disagree" : 15,
+      "percentage" : 78.26
+   },
+   {
+      "comment_body" : "比起在書店買書，我更常在網路上訂書。",
+      "id" : 18,
+      "idx" : "5",
+      "n_agree" : 64,
+      "n_disagree" : 18,
+      "percentage" : 78.04
+   },
+   {
+      "comment_body" : "覺得難看的設計不如只有書名、作者、編譯者、出版社名稱的書，會因為設計跟編排太糟難以決定購買",
+      "id" : 19,
+      "idx" : "14",
+      "n_agree" : 55,
+      "n_disagree" : 16,
+      "percentage" : 77.46
+   },
+   {
+      "comment_body" : "我覺得要思考的是轉變服務型態而非定價制度，沒有夕陽產業只有夕陽心態。",
+      "id" : 20,
+      "idx" : "24",
+      "n_agree" : 9,
+      "n_disagree" : 4,
+      "percentage" : 69.23
+   },
+   {
+      "comment_body" : "等到出版者和書籍供給量大幅降低，與需求達到一致時，便不再需要運用法律或者政府的力量介入書籍交易市場。目前有太多濫竽充數的書籍，剛好藉由巨變時代的力量淘選出局。",
+      "id" : 21,
+      "idx" : "18",
+      "n_agree" : 24,
+      "n_disagree" : 12,
+      "percentage" : 66.66
+   },
+   {
+      "comment_body" : "網路購書就像在陌生的街道旅行，不管內容是否讓人著迷，都是一趟有趣的冒險．",
+      "id" : 22,
+      "idx" : "16",
+      "n_agree" : 34,
+      "n_disagree" : 23,
+      "percentage" : 59.64
+   },
+   {
+      "comment_body" : "不喜歡因為改編為電影，而有電影人物封面的書籍，喜歡內容也會因此不買",
+      "id" : 23,
+      "idx" : "10",
+      "n_agree" : 39,
+      "n_disagree" : 32,
+      "percentage" : 54.92
+   },
+   {
+      "comment_body" : "等到書籍供給量大幅降低，與需求達到一致時，便不再需要運用法律或者政府的力量介入書籍交易市場。",
+      "id" : 24,
+      "idx" : "17",
+      "n_agree" : 11,
+      "n_disagree" : 17,
+      "percentage" : 39.28
+   }
+]
