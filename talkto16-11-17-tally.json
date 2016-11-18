@@ -1,0 +1,1082 @@
+[
+   {
+      "comment_body" : "遊戲機制設計雖然不像美術那樣直覺，有時甚至無法憑一張圖就了解，但卻是非常重要的元素",
+      "id" : 1,
+      "idx" : "110",
+      "n_agree" : 32,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "政問的贊成反對模式也是一種遊戲。",
+      "id" : 2,
+      "idx" : "132",
+      "n_agree" : 15,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為原創遊戲總是比改編遊戲好玩的多.故事內容也較豐富.原創遊戲也比較吸引我去做二次創作",
+      "id" : 3,
+      "idx" : "133",
+      "n_agree" : 10,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為遊戲是否受歡迎會因為每個地區市場的喜好不同而有差異",
+      "id" : 4,
+      "idx" : "44",
+      "n_agree" : 126,
+      "n_disagree" : 1,
+      "percentage" : 99.21
+   },
+   {
+      "comment_body" : "我認為遊戲可以給予思考上的啟發",
+      "id" : 5,
+      "idx" : "54",
+      "n_agree" : 118,
+      "n_disagree" : 1,
+      "percentage" : 99.15
+   },
+   {
+      "comment_body" : "我認為遊戲不止是個商品，更是個能將創作者心思，用最容易的方式，接近任何人的重要橋樑。",
+      "id" : 6,
+      "idx" : "56",
+      "n_agree" : 87,
+      "n_disagree" : 1,
+      "percentage" : 98.86
+   },
+   {
+      "comment_body" : "我喜歡有創意的獨立遊戲。",
+      "id" : 7,
+      "idx" : "5",
+      "n_agree" : 236,
+      "n_disagree" : 3,
+      "percentage" : 98.74
+   },
+   {
+      "comment_body" : "我覺得有終點/結局的遊戲讓我感到滿足。",
+      "id" : 8,
+      "idx" : "81",
+      "n_agree" : 64,
+      "n_disagree" : 1,
+      "percentage" : 98.46
+   },
+   {
+      "comment_body" : "我覺得角色的性格對故事的影響非常大",
+      "id" : 9,
+      "idx" : "51",
+      "n_agree" : 105,
+      "n_disagree" : 2,
+      "percentage" : 98.13
+   },
+   {
+      "comment_body" : "我認為遊戲是有文化和藝術意義的",
+      "id" : 10,
+      "idx" : "36",
+      "n_agree" : 156,
+      "n_disagree" : 3,
+      "percentage" : 98.11
+   },
+   {
+      "comment_body" : "我希望看到產業內彼此能找到可互相合作的對象、方式，而不是整天互相彼此靠北。停止靠北、停止看靠北。",
+      "id" : 11,
+      "idx" : "101",
+      "n_agree" : 48,
+      "n_disagree" : 1,
+      "percentage" : 97.95
+   },
+   {
+      "comment_body" : "我認為台灣遊戲業需要更多橫向交流來分享方法與經驗",
+      "id" : 12,
+      "idx" : "65",
+      "n_agree" : 89,
+      "n_disagree" : 2,
+      "percentage" : 97.8
+   },
+   {
+      "comment_body" : "我覺得營收導向沒有不好，但該怎麼做出與其他遊戲的區隔與特色，才能持續發展。",
+      "id" : 13,
+      "idx" : "28",
+      "n_agree" : 174,
+      "n_disagree" : 4,
+      "percentage" : 97.75
+   },
+   {
+      "comment_body" : "對於有創意的獨立開發遊戲，我願意花錢買這個遊戲",
+      "id" : 14,
+      "idx" : "15",
+      "n_agree" : 217,
+      "n_disagree" : 5,
+      "percentage" : 97.74
+   },
+   {
+      "comment_body" : "翻譯費就算很貴也不能省",
+      "id" : 15,
+      "idx" : "100",
+      "n_agree" : 43,
+      "n_disagree" : 1,
+      "percentage" : 97.72
+   },
+   {
+      "comment_body" : "我覺得創作遊戲程式、藝術、企劃，是很有成就感的工作。",
+      "id" : 16,
+      "idx" : "8",
+      "n_agree" : 246,
+      "n_disagree" : 6,
+      "percentage" : 97.61
+   },
+   {
+      "comment_body" : "免費商城遊戲不等於爛遊戲",
+      "id" : 17,
+      "idx" : "108",
+      "n_agree" : 40,
+      "n_disagree" : 1,
+      "percentage" : 97.56
+   },
+   {
+      "comment_body" : "我認為沒有拿出成品(DEMO、試玩等)，只會說空話的都不可信。",
+      "id" : 18,
+      "idx" : "88",
+      "n_agree" : 62,
+      "n_disagree" : 2,
+      "percentage" : 96.87
+   },
+   {
+      "comment_body" : "需要更多的玩家關心&支持台灣遊戲！！",
+      "id" : 19,
+      "idx" : "27",
+      "n_agree" : 189,
+      "n_disagree" : 7,
+      "percentage" : 96.42
+   },
+   {
+      "comment_body" : "我會想玩有故事劇情的遊戲",
+      "id" : 20,
+      "idx" : "121",
+      "n_agree" : 27,
+      "n_disagree" : 1,
+      "percentage" : 96.42
+   },
+   {
+      "comment_body" : "對於獨立遊戲來說，群眾募資是不錯的資金獲得來源，但是相對來說他也是把雙面刃，沒有一定程度的把握前就開啟群眾募資其實很危險",
+      "id" : 21,
+      "idx" : "41",
+      "n_agree" : 156,
+      "n_disagree" : 6,
+      "percentage" : 96.29
+   },
+   {
+      "comment_body" : "不是所有的IP角色都可以套在固定的遊戲類型上，那只會讓遊戲四不像而已 像一堆刀塔like的手遊...",
+      "id" : 22,
+      "idx" : "34",
+      "n_agree" : 148,
+      "n_disagree" : 6,
+      "percentage" : 96.1
+   },
+   {
+      "comment_body" : "我覺得靠抄襲作出的二流遊戲硬是配上性暗示廣告只會再降一級",
+      "id" : 23,
+      "idx" : "14",
+      "n_agree" : 235,
+      "n_disagree" : 10,
+      "percentage" : 95.91
+   },
+   {
+      "comment_body" : "我覺得點陣圖RPG還是很好玩！",
+      "id" : 24,
+      "idx" : "104",
+      "n_agree" : 40,
+      "n_disagree" : 2,
+      "percentage" : 95.23
+   },
+   {
+      "comment_body" : "想要更多資源做更多事情阿.....",
+      "id" : 25,
+      "idx" : "71",
+      "n_agree" : 77,
+      "n_disagree" : 4,
+      "percentage" : 95.06
+   },
+   {
+      "comment_body" : "台灣遊戲\"垃圾進，垃圾出\"的狀況絕對不是消費者單向製造的。 同時也不要把責任推卸給“教育”",
+      "id" : 26,
+      "idx" : "92",
+      "n_agree" : 54,
+      "n_disagree" : 3,
+      "percentage" : 94.73
+   },
+   {
+      "comment_body" : "身為遊戲開發者必須要有夢想，但養活自己還是最重要的。",
+      "id" : 27,
+      "idx" : "114",
+      "n_agree" : 36,
+      "n_disagree" : 2,
+      "percentage" : 94.73
+   },
+   {
+      "comment_body" : "能牽動生活周遭且引起話題討論的社群遊戲很適合非常態玩家。",
+      "id" : 28,
+      "idx" : "40",
+      "n_agree" : 120,
+      "n_disagree" : 7,
+      "percentage" : 94.48
+   },
+   {
+      "comment_body" : "沒有絕對的好遊戲，只有不同族群喜歡的遊戲",
+      "id" : 29,
+      "idx" : "119",
+      "n_agree" : 32,
+      "n_disagree" : 2,
+      "percentage" : 94.11
+   },
+   {
+      "comment_body" : "我覺得理想的遊戲開發者不只要該服務時下市場，也要為下一世代的玩家創造新內容。",
+      "id" : 30,
+      "idx" : "29",
+      "n_agree" : 151,
+      "n_disagree" : 11,
+      "percentage" : 93.2
+   },
+   {
+      "comment_body" : "你現在所玩、所購買、所支持的遊戲將會影響未來那些未出世的遊戲，更偏向那個方向前進。",
+      "id" : 31,
+      "idx" : "124",
+      "n_agree" : 26,
+      "n_disagree" : 2,
+      "percentage" : 92.85
+   },
+   {
+      "comment_body" : "他人對遊戲的批判很重要，了解問題出在哪裡才能對症下藥，畢竟開發者總是會有自己的盲點",
+      "id" : 32,
+      "idx" : "111",
+      "n_agree" : 38,
+      "n_disagree" : 3,
+      "percentage" : 92.68
+   },
+   {
+      "comment_body" : "我覺得這個討論開始歪很大",
+      "id" : 33,
+      "idx" : "91",
+      "n_agree" : 48,
+      "n_disagree" : 4,
+      "percentage" : 92.3
+   },
+   {
+      "comment_body" : "我願意一次性付費買斷好遊戲，金額高點沒關係。",
+      "id" : 34,
+      "idx" : "76",
+      "n_agree" : 71,
+      "n_disagree" : 6,
+      "percentage" : 92.2
+   },
+   {
+      "comment_body" : "自己喜歡的遊戲類型會依過去的(經歷)和(興趣)而 分門別類",
+      "id" : 35,
+      "idx" : "17",
+      "n_agree" : 189,
+      "n_disagree" : 16,
+      "percentage" : 92.19
+   },
+   {
+      "comment_body" : "我會想玩過時(指推出時間)的遊戲",
+      "id" : 36,
+      "idx" : "23",
+      "n_agree" : 176,
+      "n_disagree" : 15,
+      "percentage" : 92.14
+   },
+   {
+      "comment_body" : "我有玩電腦遊戲的習慣。",
+      "id" : 37,
+      "idx" : "2",
+      "n_agree" : 222,
+      "n_disagree" : 20,
+      "percentage" : 91.73
+   },
+   {
+      "comment_body" : "我認為台灣遊戲開發者應該以全球市場為目標, 不要自我設限!",
+      "id" : 38,
+      "idx" : "38",
+      "n_agree" : 126,
+      "n_disagree" : 12,
+      "percentage" : 91.3
+   },
+   {
+      "comment_body" : "我願意抖內給自己喜歡的遊戲開發者，以獲取更多的更新內容(並不是購買DLC)",
+      "id" : 39,
+      "idx" : "77",
+      "n_agree" : 63,
+      "n_disagree" : 6,
+      "percentage" : 91.3
+   },
+   {
+      "comment_body" : "我覺得好遊戲是劇情、美術、音樂等多方結合，而不是單一項目出頭就能達成的。",
+      "id" : 40,
+      "idx" : "87",
+      "n_agree" : 62,
+      "n_disagree" : 6,
+      "percentage" : 91.17
+   },
+   {
+      "comment_body" : "我覺得遊戲開發要天時地利人和。獨立遊戲的合作開發需要有剛好志同道合且有時間又願意共同承擔結果的美術、音樂、工程師，才\"有機會\"完成",
+      "id" : 41,
+      "idx" : "93",
+      "n_agree" : 56,
+      "n_disagree" : 6,
+      "percentage" : 90.32
+   },
+   {
+      "comment_body" : "我認為遊戲好壞跟付費免費無關",
+      "id" : 42,
+      "idx" : "45",
+      "n_agree" : 118,
+      "n_disagree" : 13,
+      "percentage" : 90.07
+   },
+   {
+      "comment_body" : "遊戲品質非常重要，寧可把東西磨好也不要為死線冒然發佈，否則只會有反效果",
+      "id" : 43,
+      "idx" : "109",
+      "n_agree" : 35,
+      "n_disagree" : 4,
+      "percentage" : 89.74
+   },
+   {
+      "comment_body" : "如果需要持續性消費的遊戲，我喜歡固定金額勝於波動金額。",
+      "id" : 44,
+      "idx" : "37",
+      "n_agree" : 108,
+      "n_disagree" : 13,
+      "percentage" : 89.25
+   },
+   {
+      "comment_body" : "要實現好的創意必須要靠足夠的技術和資金支持",
+      "id" : 45,
+      "idx" : "22",
+      "n_agree" : 176,
+      "n_disagree" : 25,
+      "percentage" : 87.56
+   },
+   {
+      "comment_body" : "要實踐好玩的創意是需要技術和資金支持的",
+      "id" : 46,
+      "idx" : "24",
+      "n_agree" : 161,
+      "n_disagree" : 23,
+      "percentage" : 87.5
+   },
+   {
+      "comment_body" : "在現今台灣遊戲產業結構完全扭曲的狀態下，如果這個政府期望遊戲產業還有復甦的可能性，請把舊有的產業結構打掉，重新以研發為核心，以全球為目標做拓展吧。",
+      "id" : 47,
+      "idx" : "70",
+      "n_agree" : 70,
+      "n_disagree" : 10,
+      "percentage" : 87.5
+   },
+   {
+      "comment_body" : "我認為遊戲做的有趣好玩只是基本，要能夠讓這款遊戲養活創作者，才是功力所在。",
+      "id" : 48,
+      "idx" : "57",
+      "n_agree" : 82,
+      "n_disagree" : 12,
+      "percentage" : 87.23
+   },
+   {
+      "comment_body" : "我認為沒有靈魂的遊戲不算好遊戲",
+      "id" : 49,
+      "idx" : "99",
+      "n_agree" : 39,
+      "n_disagree" : 6,
+      "percentage" : 86.66
+   },
+   {
+      "comment_body" : "我喜歡原創遊戲遠大於其他許多延伸作品，例如:三國○○,●●傳等",
+      "id" : 50,
+      "idx" : "16",
+      "n_agree" : 157,
+      "n_disagree" : 26,
+      "percentage" : 85.79
+   },
+   {
+      "comment_body" : "我覺得「發表容易被100%反對的想法」，比「得到多數贊成的想法」來登上排名版面更簡單些",
+      "id" : 51,
+      "idx" : "128",
+      "n_agree" : 18,
+      "n_disagree" : 3,
+      "percentage" : 85.71
+   },
+   {
+      "comment_body" : "討厭有自動掛機和自動跑主線/任務的遊戲",
+      "id" : 52,
+      "idx" : "19",
+      "n_agree" : 164,
+      "n_disagree" : 29,
+      "percentage" : 84.97
+   },
+   {
+      "comment_body" : "我喜歡打電腦遊戲勝過手機遊戲",
+      "id" : 53,
+      "idx" : "33",
+      "n_agree" : 101,
+      "n_disagree" : 18,
+      "percentage" : 84.87
+   },
+   {
+      "comment_body" : "沒有錢萬萬不能",
+      "id" : 54,
+      "idx" : "115",
+      "n_agree" : 33,
+      "n_disagree" : 6,
+      "percentage" : 84.61
+   },
+   {
+      "comment_body" : "台灣遊戲產業是系統的問題，舊的人有錢用老舊的遊戲規則玩死新的人，新的人沒有資源支撐一款遊戲真正的往前走。玩家是需要被教育的，如果產業沒有像活水一般流動，玩家永遠都只會在排行榜前幾名玩遊戲。遊戲規則不改變，那遊戲產業也不會改變。",
+      "id" : 55,
+      "idx" : "123",
+      "n_agree" : 22,
+      "n_disagree" : 4,
+      "percentage" : 84.61
+   },
+   {
+      "comment_body" : "重視劇情的單機遊戲比起重視交流的線上遊戲更吸引我",
+      "id" : 56,
+      "idx" : "10",
+      "n_agree" : 171,
+      "n_disagree" : 33,
+      "percentage" : 83.82
+   },
+   {
+      "comment_body" : "我覺得上班好累人",
+      "id" : 57,
+      "idx" : "64",
+      "n_agree" : 67,
+      "n_disagree" : 13,
+      "percentage" : 83.75
+   },
+   {
+      "comment_body" : "我有玩手機遊戲的習慣。",
+      "id" : 58,
+      "idx" : "0",
+      "n_agree" : 194,
+      "n_disagree" : 38,
+      "percentage" : 83.62
+   },
+   {
+      "comment_body" : "有時候能跟朋友同樂時 大過於自己單機玩",
+      "id" : 59,
+      "idx" : "21",
+      "n_agree" : 165,
+      "n_disagree" : 33,
+      "percentage" : 83.33
+   },
+   {
+      "comment_body" : "在座的遊戲開發者都有病 (ﾟ∀ﾟ)",
+      "id" : 60,
+      "idx" : "97",
+      "n_agree" : 40,
+      "n_disagree" : 8,
+      "percentage" : 83.33
+   },
+   {
+      "comment_body" : "我覺得遊戲製作者得找出自己獨特風格。「我的遊戲跟別人有什麼不一樣」是個首要關鍵問題。",
+      "id" : 61,
+      "idx" : "43",
+      "n_agree" : 106,
+      "n_disagree" : 22,
+      "percentage" : 82.81
+   },
+   {
+      "comment_body" : "好遊戲必然有其營利方式",
+      "id" : 62,
+      "idx" : "49",
+      "n_agree" : 95,
+      "n_disagree" : 20,
+      "percentage" : 82.6
+   },
+   {
+      "comment_body" : "我覺得做這個測驗非常有趣！",
+      "id" : 63,
+      "idx" : "127",
+      "n_agree" : 14,
+      "n_disagree" : 3,
+      "percentage" : 82.35
+   },
+   {
+      "comment_body" : "我覺得台灣遊戲在開發期的廣告做的太少",
+      "id" : 64,
+      "idx" : "79",
+      "n_agree" : 53,
+      "n_disagree" : 12,
+      "percentage" : 81.53
+   },
+   {
+      "comment_body" : "我覺得台灣現在有資本的沒有遊戲創意，有遊戲創意的沒資本",
+      "id" : 65,
+      "idx" : "32",
+      "n_agree" : 107,
+      "n_disagree" : 27,
+      "percentage" : 79.85
+   },
+   {
+      "comment_body" : "我覺得玩法的獨創性\"不是\"最重要的",
+      "id" : 66,
+      "idx" : "48",
+      "n_agree" : 90,
+      "n_disagree" : 23,
+      "percentage" : 79.64
+   },
+   {
+      "comment_body" : "我覺得商業遊戲中的卡牌類型遊戲太多了。某些時候即使出了短篇角色劇情也不能真正讓角色富有個性與內涵，更遑論沒有的。而這使遊戲變的扁平。",
+      "id" : 67,
+      "idx" : "89",
+      "n_agree" : 43,
+      "n_disagree" : 11,
+      "percentage" : 79.62
+   },
+   {
+      "comment_body" : "做遊戲超痛苦的、只有夠M的人才能完成遊戲",
+      "id" : 68,
+      "idx" : "69",
+      "n_agree" : 69,
+      "n_disagree" : 18,
+      "percentage" : 79.31
+   },
+   {
+      "comment_body" : "我覺得台灣充斥著假的獨立遊戲開發商",
+      "id" : 69,
+      "idx" : "90",
+      "n_agree" : 42,
+      "n_disagree" : 11,
+      "percentage" : 79.24
+   },
+   {
+      "comment_body" : "遊戲是科技為骨幹的文化產品",
+      "id" : 70,
+      "idx" : "68",
+      "n_agree" : 60,
+      "n_disagree" : 16,
+      "percentage" : 78.94
+   },
+   {
+      "comment_body" : "隨著年紀增長，能利用瑣碎空檔短時間獲得樂趣的遊戲較吸引我持續遊玩。",
+      "id" : 71,
+      "idx" : "39",
+      "n_agree" : 101,
+      "n_disagree" : 27,
+      "percentage" : 78.9
+   },
+   {
+      "comment_body" : "我認為我被分在邊緣人群組內 誰贊成? 誰反對?",
+      "id" : 72,
+      "idx" : "125",
+      "n_agree" : 11,
+      "n_disagree" : 3,
+      "percentage" : 78.57
+   },
+   {
+      "comment_body" : "我覺得 爛大街的三國 仙X俠 軒X 光廣告看得都煩了不必再做了",
+      "id" : 73,
+      "idx" : "9",
+      "n_agree" : 174,
+      "n_disagree" : 48,
+      "percentage" : 78.37
+   },
+   {
+      "comment_body" : "我不希望做很冗長的養成系統",
+      "id" : 74,
+      "idx" : "122",
+      "n_agree" : 18,
+      "n_disagree" : 5,
+      "percentage" : 78.26
+   },
+   {
+      "comment_body" : "我覺得一看就懂的遊戲很重要",
+      "id" : 75,
+      "idx" : "18",
+      "n_agree" : 149,
+      "n_disagree" : 42,
+      "percentage" : 78.01
+   },
+   {
+      "comment_body" : "我覺得有好多沒做過遊戲的人在這裡高談闊論",
+      "id" : 76,
+      "idx" : "135",
+      "n_agree" : 7,
+      "n_disagree" : 2,
+      "percentage" : 77.77
+   },
+   {
+      "comment_body" : "我覺得(遊戲玩法)有加入自己的觀點加以優化拓展就不算抄襲",
+      "id" : 77,
+      "idx" : "78",
+      "n_agree" : 48,
+      "n_disagree" : 14,
+      "percentage" : 77.41
+   },
+   {
+      "comment_body" : "我覺得做遊戲還是不要挑戰玩家直覺比較好",
+      "id" : 78,
+      "idx" : "116",
+      "n_agree" : 20,
+      "n_disagree" : 6,
+      "percentage" : 76.92
+   },
+   {
+      "comment_body" : "我覺得 只要是用心做的遊戲 一定可以有自己的一片天",
+      "id" : 79,
+      "idx" : "84",
+      "n_agree" : 46,
+      "n_disagree" : 14,
+      "percentage" : 76.66
+   },
+   {
+      "comment_body" : "課金糞遊戲雖然一時成為主流，但早年那種會感動人心的遊戲，遲早會崛起。",
+      "id" : 80,
+      "idx" : "118",
+      "n_agree" : 23,
+      "n_disagree" : 7,
+      "percentage" : 76.66
+   },
+   {
+      "comment_body" : "我認為遊戲題材沒有冒險就沒有創新，但老闆都是保守派的",
+      "id" : 81,
+      "idx" : "73",
+      "n_agree" : 52,
+      "n_disagree" : 16,
+      "percentage" : 76.47
+   },
+   {
+      "comment_body" : "不早了 吃宵夜吧",
+      "id" : 82,
+      "idx" : "107",
+      "n_agree" : 22,
+      "n_disagree" : 7,
+      "percentage" : 75.86
+   },
+   {
+      "comment_body" : "我覺得獸耳、獸角女主角超可愛！！",
+      "id" : 83,
+      "idx" : "106",
+      "n_agree" : 28,
+      "n_disagree" : 9,
+      "percentage" : 75.67
+   },
+   {
+      "comment_body" : "我覺得有病兔兔超可愛的! :D",
+      "id" : 84,
+      "idx" : "35",
+      "n_agree" : 90,
+      "n_disagree" : 29,
+      "percentage" : 75.63
+   },
+   {
+      "comment_body" : "能跨平台的遊戲非常吸引我",
+      "id" : 85,
+      "idx" : "31",
+      "n_agree" : 92,
+      "n_disagree" : 32,
+      "percentage" : 74.19
+   },
+   {
+      "comment_body" : "我喜歡從電影、歷史、小說改編的遊戲。",
+      "id" : 86,
+      "idx" : "3",
+      "n_agree" : 139,
+      "n_disagree" : 52,
+      "percentage" : 72.77
+   },
+   {
+      "comment_body" : "比起做遊戲，多角化經營是更重要的",
+      "id" : 87,
+      "idx" : "130",
+      "n_agree" : 8,
+      "n_disagree" : 3,
+      "percentage" : 72.72
+   },
+   {
+      "comment_body" : "我喜歡大製作的 3A 級遊戲。",
+      "id" : 88,
+      "idx" : "4",
+      "n_agree" : 114,
+      "n_disagree" : 44,
+      "percentage" : 72.15
+   },
+   {
+      "comment_body" : "我認為IAP類遊戲必須將核心玩法和經濟體制分開來看；核心玩法應鼓勵設計者發揮創意，然而經濟體制則是進化而來的產物，應保留市面上佳作的設計小幅優化，而不是打掉自己設計．很多專案沒看清這點，因此即使專案上市也無法賺到錢．總體而言，好玩但無法賺錢的遊戲對這個產業的發展是沒有任何意義的．",
+      "id" : 89,
+      "idx" : "112",
+      "n_agree" : 22,
+      "n_disagree" : 9,
+      "percentage" : 70.96
+   },
+   {
+      "comment_body" : "我覺得台灣代理商很喜歡把抽扭蛋的機率調更低，這樣大大衰減想玩的玩家!",
+      "id" : 90,
+      "idx" : "20",
+      "n_agree" : 105,
+      "n_disagree" : 43,
+      "percentage" : 70.94
+   },
+   {
+      "comment_body" : "亞洲市場主要問題在於使用者並沒有對於設計者的尊重,早期的小額購買(30/60/90)一款買斷遊戲本身已經是一個很好的機制,但在亞洲市場卻很常碰壁是件很詭異的事情,現在的商城模式基本上扼殺了大部分的獨立創作者生存空間",
+      "id" : 91,
+      "idx" : "53",
+      "n_agree" : 62,
+      "n_disagree" : 26,
+      "percentage" : 70.45
+   },
+   {
+      "comment_body" : "我覺得台灣遊戲業有種想一步登天的感覺，而且玩家也是自以為品味高尚，一來一往造就了忽視基礎和鄙視粗糙作品的環境",
+      "id" : 92,
+      "idx" : "67",
+      "n_agree" : 57,
+      "n_disagree" : 25,
+      "percentage" : 69.51
+   },
+   {
+      "comment_body" : "我認為\"商品經不起市場考驗\"賣的作的不好的爛貨，沒資格靠腰。",
+      "id" : 93,
+      "idx" : "113",
+      "n_agree" : 20,
+      "n_disagree" : 9,
+      "percentage" : 68.96
+   },
+   {
+      "comment_body" : "我與其贊成、反對他人意見覺得還是趕快繼續把手邊的事情完成比較重要。",
+      "id" : 94,
+      "idx" : "126",
+      "n_agree" : 15,
+      "n_disagree" : 7,
+      "percentage" : 68.18
+   },
+   {
+      "comment_body" : "我所認知的科技，是使用了名為「色情」的燃料所驅動著。 正所謂 H 無國界，一些日本知名遊戲公司早期也是以製作 H-Game 出世。 所以我們應該學習古人經驗，大家攜手一條心開發 H-Game ，藉此反攻大陸、征服日本，統一世界，為台灣遊戲界創造一條迎向光明的康莊大道！",
+      "id" : 95,
+      "idx" : "66",
+      "n_agree" : 53,
+      "n_disagree" : 25,
+      "percentage" : 67.94
+   },
+   {
+      "comment_body" : "泡麵是獨立開發者的好夥伴。",
+      "id" : 96,
+      "idx" : "46",
+      "n_agree" : 67,
+      "n_disagree" : 32,
+      "percentage" : 67.67
+   },
+   {
+      "comment_body" : "我有玩家用遊戲機的習慣。",
+      "id" : 97,
+      "idx" : "1",
+      "n_agree" : 132,
+      "n_disagree" : 65,
+      "percentage" : 67
+   },
+   {
+      "comment_body" : "我覺得精細的細節比擁有很多可玩的內容更重要",
+      "id" : 98,
+      "idx" : "52",
+      "n_agree" : 59,
+      "n_disagree" : 32,
+      "percentage" : 64.83
+   },
+   {
+      "comment_body" : "我相信童話珠珠的虛擬成就與實體商家做O2O結合，能改善社會，創造遊戲新價值。",
+      "id" : 99,
+      "idx" : "117",
+      "n_agree" : 11,
+      "n_disagree" : 6,
+      "percentage" : 64.7
+   },
+   {
+      "comment_body" : "我認為『國產遊戲』這四個字已經開始變成一個負面的宣傳字詞了。",
+      "id" : 100,
+      "idx" : "50",
+      "n_agree" : 67,
+      "n_disagree" : 37,
+      "percentage" : 64.42
+   },
+   {
+      "comment_body" : "好的遊戲與爛的遊戲只有一線之隔 ヽ(✿ﾟ▽ﾟ)ノ",
+      "id" : 101,
+      "idx" : "98",
+      "n_agree" : 29,
+      "n_disagree" : 17,
+      "percentage" : 63.04
+   },
+   {
+      "comment_body" : "那個......晚餐吃什麼？",
+      "id" : 102,
+      "idx" : "96",
+      "n_agree" : 17,
+      "n_disagree" : 10,
+      "percentage" : 62.96
+   },
+   {
+      "comment_body" : "「我要變更部份規格」",
+      "id" : 103,
+      "idx" : "80",
+      "n_agree" : 37,
+      "n_disagree" : 22,
+      "percentage" : 62.71
+   },
+   {
+      "comment_body" : "我想蓋地下城比做遊戲快樂多了",
+      "id" : 104,
+      "idx" : "120",
+      "n_agree" : 11,
+      "n_disagree" : 7,
+      "percentage" : 61.11
+   },
+   {
+      "comment_body" : "我認為政府要扶持遊戲產業的作法不應該是補助，甚至是不要做任何補助",
+      "id" : 105,
+      "idx" : "86",
+      "n_agree" : 31,
+      "n_disagree" : 20,
+      "percentage" : 60.78
+   },
+   {
+      "comment_body" : "做能賺錢的遊戲,才能做自己想做的遊戲",
+      "id" : 106,
+      "idx" : "30",
+      "n_agree" : 85,
+      "n_disagree" : 56,
+      "percentage" : 60.28
+   },
+   {
+      "comment_body" : "多人互動勝過一個人挑戰AI",
+      "id" : 107,
+      "idx" : "59",
+      "n_agree" : 49,
+      "n_disagree" : 33,
+      "percentage" : 59.75
+   },
+   {
+      "comment_body" : "有小妹妹的遊戲都會紅，『拯救產業、愛用蘿莉』",
+      "id" : 108,
+      "idx" : "75",
+      "n_agree" : 35,
+      "n_disagree" : 24,
+      "percentage" : 59.32
+   },
+   {
+      "comment_body" : "不論遊戲是原創還是抄襲，只要讓大家玩得開心，多人玩、討論高，他就是一款好遊戲 遊戲就是做出來給大家玩的，就算是原創有趣的遊戲 沒人玩沒人參與，那不過是一個藝術品只給懂得人欣賞 我覺得有玩遊戲的人，大部分不屬於深度玩家，不會在意是否抄襲還是原創，只會在意這個遊戲好不好玩，神魔之塔",
+      "id" : 109,
+      "idx" : "105",
+      "n_agree" : 21,
+      "n_disagree" : 15,
+      "percentage" : 58.33
+   },
+   {
+      "comment_body" : "我覺得遊戲裡需要更多的蘿莉。",
+      "id" : 110,
+      "idx" : "47",
+      "n_agree" : 47,
+      "n_disagree" : 34,
+      "percentage" : 58.02
+   },
+   {
+      "comment_body" : "我覺得...我覺得...什麼時候輪到我覺得啊?!",
+      "id" : 111,
+      "idx" : "63",
+      "n_agree" : 27,
+      "n_disagree" : 20,
+      "percentage" : 57.44
+   },
+   {
+      "comment_body" : "日式電子小說是一種遊戲",
+      "id" : 112,
+      "idx" : "131",
+      "n_agree" : 9,
+      "n_disagree" : 7,
+      "percentage" : 56.25
+   },
+   {
+      "comment_body" : "我覺得炎羅是個好人",
+      "id" : 113,
+      "idx" : "61",
+      "n_agree" : 26,
+      "n_disagree" : 24,
+      "percentage" : 52
+   },
+   {
+      "comment_body" : "離線時還有收穫的遊戲比較吸引我",
+      "id" : 114,
+      "idx" : "13",
+      "n_agree" : 92,
+      "n_disagree" : 85,
+      "percentage" : 51.97
+   },
+   {
+      "comment_body" : "炒飯還是得加醬油比較好吃",
+      "id" : 115,
+      "idx" : "58",
+      "n_agree" : 31,
+      "n_disagree" : 29,
+      "percentage" : 51.66
+   },
+   {
+      "comment_body" : "我認為違反人性的遊戲無法養活開發者",
+      "id" : 116,
+      "idx" : "102",
+      "n_agree" : 15,
+      "n_disagree" : 15,
+      "percentage" : 50
+   },
+   {
+      "comment_body" : "我覺得地城彈珠很好玩",
+      "id" : 117,
+      "idx" : "26",
+      "n_agree" : 44,
+      "n_disagree" : 46,
+      "percentage" : 48.88
+   },
+   {
+      "comment_body" : "手機遊戲用單手玩的比雙手玩的還要吸引我",
+      "id" : 118,
+      "idx" : "12",
+      "n_agree" : 71,
+      "n_disagree" : 81,
+      "percentage" : 46.71
+   },
+   {
+      "comment_body" : "我覺得 Thunder 很可愛",
+      "id" : 119,
+      "idx" : "62",
+      "n_agree" : 18,
+      "n_disagree" : 21,
+      "percentage" : 46.15
+   },
+   {
+      "comment_body" : "我覺得貓頭鷹最聰明",
+      "id" : 120,
+      "idx" : "72",
+      "n_agree" : 21,
+      "n_disagree" : 25,
+      "percentage" : 45.65
+   },
+   {
+      "comment_body" : "我覺得世界需要更多糞game",
+      "id" : 121,
+      "idx" : "85",
+      "n_agree" : 26,
+      "n_disagree" : 31,
+      "percentage" : 45.61
+   },
+   {
+      "comment_body" : "勝率50:50的遊戲比砸錢就是贏家的遊戲好玩",
+      "id" : 122,
+      "idx" : "129",
+      "n_agree" : 5,
+      "n_disagree" : 6,
+      "percentage" : 45.45
+   },
+   {
+      "comment_body" : "我覺得遊戲就該有蘿莉或偽娘",
+      "id" : 123,
+      "idx" : "83",
+      "n_agree" : 21,
+      "n_disagree" : 30,
+      "percentage" : 41.17
+   },
+   {
+      "comment_body" : "比起遊戲，商業多角化更重要嗎？",
+      "id" : 124,
+      "idx" : "25",
+      "n_agree" : 48,
+      "n_disagree" : 71,
+      "percentage" : 40.33
+   },
+   {
+      "comment_body" : "我喜歡網頁遊戲(web game)",
+      "id" : 125,
+      "idx" : "94",
+      "n_agree" : 18,
+      "n_disagree" : 27,
+      "percentage" : 40
+   },
+   {
+      "comment_body" : "我覺得開發者都喜歡被滴蠟。",
+      "id" : 126,
+      "idx" : "74",
+      "n_agree" : 27,
+      "n_disagree" : 41,
+      "percentage" : 39.7
+   },
+   {
+      "comment_body" : "我覺得代理國外的遊戲再中文化，通常比較精緻。",
+      "id" : 127,
+      "idx" : "7",
+      "n_agree" : 66,
+      "n_disagree" : 103,
+      "percentage" : 39.05
+   },
+   {
+      "comment_body" : "我覺得年輕人都好天真",
+      "id" : 128,
+      "idx" : "134",
+      "n_agree" : 3,
+      "n_disagree" : 5,
+      "percentage" : 37.5
+   },
+   {
+      "comment_body" : "大家來選里長吧！",
+      "id" : 129,
+      "idx" : "95",
+      "n_agree" : 14,
+      "n_disagree" : 24,
+      "percentage" : 36.84
+   },
+   {
+      "comment_body" : "我覺得用商城模式收費的線上遊戲，比較容易上手。",
+      "id" : 130,
+      "idx" : "6",
+      "n_agree" : 51,
+      "n_disagree" : 131,
+      "percentage" : 28.02
+   },
+   {
+      "comment_body" : "我認為只有空手道有留下來的必要",
+      "id" : 131,
+      "idx" : "55",
+      "n_agree" : 19,
+      "n_disagree" : 57,
+      "percentage" : 25
+   },
+   {
+      "comment_body" : "一個好的遊戲，主角就該是大叔",
+      "id" : 132,
+      "idx" : "103",
+      "n_agree" : 8,
+      "n_disagree" : 25,
+      "percentage" : 24.24
+   },
+   {
+      "comment_body" : "我喜歡偽娘勝過蘿莉",
+      "id" : 133,
+      "idx" : "82",
+      "n_agree" : 11,
+      "n_disagree" : 45,
+      "percentage" : 19.64
+   },
+   {
+      "comment_body" : "我喜歡武俠世界觀更勝於劍與魔法的奇幻世界",
+      "id" : 134,
+      "idx" : "11",
+      "n_agree" : 31,
+      "n_disagree" : 148,
+      "percentage" : 17.31
+   },
+   {
+      "comment_body" : "我覺得炎羅超帥的",
+      "id" : 135,
+      "idx" : "60",
+      "n_agree" : 8,
+      "n_disagree" : 51,
+      "percentage" : 13.55
+   }
+]
