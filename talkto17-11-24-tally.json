@@ -1,0 +1,226 @@
+[
+   {
+      "comment_body" : "我看網路媒體的時間，比看電視台、紙本媒體加起來的時間還多。",
+      "id" : 1,
+      "idx" : "3",
+      "n_agree" : 36,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "網路上看電視新聞（人數上升），跟傳統電視機（人數下降），有一天會呈現死亡交叉。",
+      "id" : 2,
+      "idx" : "22",
+      "n_agree" : 22,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我願意用協助推廣、貢獻內容的方式，來支持喜歡的節目。",
+      "id" : 3,
+      "idx" : "10",
+      "n_agree" : 36,
+      "n_disagree" : 1,
+      "percentage" : 97.29
+   },
+   {
+      "comment_body" : "我覺得新媒體使我們能接觸的觀點比之前更多元、客觀",
+      "id" : 4,
+      "idx" : "15",
+      "n_agree" : 32,
+      "n_disagree" : 2,
+      "percentage" : 94.11
+   },
+   {
+      "comment_body" : "傳統媒體即大眾媒體，只能傳達單一價值，而新媒體利用網路的力量將分眾的概念強化，即使是弱小的聲音也能擴散",
+      "id" : 5,
+      "idx" : "27",
+      "n_agree" : 13,
+      "n_disagree" : 1,
+      "percentage" : 92.85
+   },
+   {
+      "comment_body" : "我願意用小額贊助的方式，來支持喜歡的節目。",
+      "id" : 6,
+      "idx" : "7",
+      "n_agree" : 34,
+      "n_disagree" : 3,
+      "percentage" : 91.89
+   },
+   {
+      "comment_body" : "我收看直播時，喜歡和其他觀眾、主持人互動。",
+      "id" : 7,
+      "idx" : "1",
+      "n_agree" : 30,
+      "n_disagree" : 3,
+      "percentage" : 90.9
+   },
+   {
+      "comment_body" : "我喜歡端傳媒！",
+      "id" : 8,
+      "idx" : "11",
+      "n_agree" : 19,
+      "n_disagree" : 2,
+      "percentage" : 90.47
+   },
+   {
+      "comment_body" : "我覺得「不分頭銜、階級，都有平等的發言權」是網路時代的新思維。",
+      "id" : 9,
+      "idx" : "6",
+      "n_agree" : 36,
+      "n_disagree" : 4,
+      "percentage" : 90
+   },
+   {
+      "comment_body" : "我認為台灣要經營新媒體不是依樣畫葫蘆(如:NETFLIX/YOUTUBE)，而是找到新的切入點(如:不知道)",
+      "id" : 10,
+      "idx" : "25",
+      "n_agree" : 17,
+      "n_disagree" : 2,
+      "percentage" : 89.47
+   },
+   {
+      "comment_body" : "新媒體能夠帶動主流媒體的報導。（例如大暴龍　苗栗大埔 怪手入侵農田　的影片）",
+      "id" : 11,
+      "idx" : "20",
+      "n_agree" : 20,
+      "n_disagree" : 3,
+      "percentage" : 86.95
+   },
+   {
+      "comment_body" : "我願意參與活動、購買周邊產品，來支持喜歡的節目。",
+      "id" : 12,
+      "idx" : "8",
+      "n_agree" : 26,
+      "n_disagree" : 4,
+      "percentage" : 86.66
+   },
+   {
+      "comment_body" : "我覺得台灣網路媒體的報導質量及深度已超越傳統媒體(電視新聞台)",
+      "id" : 13,
+      "idx" : "13",
+      "n_agree" : 29,
+      "n_disagree" : 5,
+      "percentage" : 85.29
+   },
+   {
+      "comment_body" : "新媒體應該更系統地去整理並統整多元論點，並且一目了然",
+      "id" : 14,
+      "idx" : "26",
+      "n_agree" : 11,
+      "n_disagree" : 2,
+      "percentage" : 84.61
+   },
+   {
+      "comment_body" : "我覺得媒體的使命是傳達訊息、創造意義，點擊、獲利都只是工具。",
+      "id" : 15,
+      "idx" : "5",
+      "n_agree" : 25,
+      "n_disagree" : 6,
+      "percentage" : 80.64
+   },
+   {
+      "comment_body" : "新媒體能夠呈現社會多元觀點，傳統媒體無法兼顧小眾主題。",
+      "id" : 16,
+      "idx" : "19",
+      "n_agree" : 20,
+      "n_disagree" : 6,
+      "percentage" : 76.92
+   },
+   {
+      "comment_body" : "我認為媒體的應該要中立",
+      "id" : 17,
+      "idx" : "16",
+      "n_agree" : 25,
+      "n_disagree" : 8,
+      "percentage" : 75.75
+   },
+   {
+      "comment_body" : "我認為過多的直播公司加入市場，造成大量粗糙爛製的內容出現，反而降低了閱聽大眾對於直播產業的想像與觀賞體驗....",
+      "id" : 18,
+      "idx" : "28",
+      "n_agree" : 11,
+      "n_disagree" : 4,
+      "percentage" : 73.33
+   },
+   {
+      "comment_body" : "我覺得「操作基本盤、激化對立」屬於舊時代的思維。",
+      "id" : 19,
+      "idx" : "4",
+      "n_agree" : 19,
+      "n_disagree" : 9,
+      "percentage" : 67.85
+   },
+   {
+      "comment_body" : "我在網路上分享過自己錄製或直播的影音。",
+      "id" : 20,
+      "idx" : "0",
+      "n_agree" : 20,
+      "n_disagree" : 10,
+      "percentage" : 66.66
+   },
+   {
+      "comment_body" : "我認為直播內容有一個不穩定因子是「時效性」，錯過直播時段的播出後，回去觀看直播影片的動力與期待就會開始迅速下滑....",
+      "id" : 21,
+      "idx" : "29",
+      "n_agree" : 12,
+      "n_disagree" : 7,
+      "percentage" : 63.15
+   },
+   {
+      "comment_body" : "我對新媒體的營收，表示悲觀。",
+      "id" : 22,
+      "idx" : "21",
+      "n_agree" : 13,
+      "n_disagree" : 8,
+      "percentage" : 61.9
+   },
+   {
+      "comment_body" : "我認為媒體應該要有自己的觀點，而非中立",
+      "id" : 23,
+      "idx" : "17",
+      "n_agree" : 19,
+      "n_disagree" : 12,
+      "percentage" : 61.29
+   },
+   {
+      "comment_body" : "我覺得網路平台以及頻寬被掌控到大型企業手上，小資本的直播公司很難生存。",
+      "id" : 24,
+      "idx" : "23",
+      "n_agree" : 16,
+      "n_disagree" : 12,
+      "percentage" : 57.14
+   },
+   {
+      "comment_body" : "我覺得如果政問失敗，台灣就失敗了。至少10年不會再起來。",
+      "id" : 25,
+      "idx" : "18",
+      "n_agree" : 12,
+      "n_disagree" : 15,
+      "percentage" : 44.44
+   },
+   {
+      "comment_body" : "我從來沒弄懂過什麼是「傳統媒體」什麼是「新媒體」",
+      "id" : 26,
+      "idx" : "12",
+      "n_agree" : 10,
+      "n_disagree" : 19,
+      "percentage" : 34.48
+   },
+   {
+      "comment_body" : "網路直播是什麼鬼東西，小孩子玩的不成氣候！",
+      "id" : 27,
+      "idx" : "24",
+      "n_agree" : 4,
+      "n_disagree" : 20,
+      "percentage" : 16.66
+   },
+   {
+      "comment_body" : "除了FB直播之外，我沒看過其他直播內容",
+      "id" : 28,
+      "idx" : "14",
+      "n_agree" : 5,
+      "n_disagree" : 30,
+      "percentage" : 14.28
+   }
+]
