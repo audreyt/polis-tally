@@ -1,0 +1,250 @@
+[
+   {
+      "comment_body" : "我覺得台灣需要增加觀眾養成的教育，讓看表演成為一種生活習慣",
+      "id" : 1,
+      "idx" : "9",
+      "n_agree" : 44,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為文化活動應以觀眾和創作者為主體，開幕閉幕活動應減少政治人物致詞比重",
+      "id" : 2,
+      "idx" : "19",
+      "n_agree" : 44,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "培養孩子藝術人文的眼界,讓表演藝術成為一種生活態度!",
+      "id" : 3,
+      "idx" : "25",
+      "n_agree" : 30,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為，教育是最根本的問題，但多數第一線教師對國內表演藝術團隊並不孰悉。",
+      "id" : 4,
+      "idx" : "26",
+      "n_agree" : 19,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "贊成，縮短城鄉差距。藝術教育要普及，",
+      "id" : 5,
+      "idx" : "28",
+      "n_agree" : 15,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為不應再讓音樂或視覺藝術老師甚至非藝術領域的老師兼任表演藝術(這是不少國高中都出現的狀況，藝術人文領域常常有兼課問題)，術業有專攻，教育要回歸專業",
+      "id" : 6,
+      "idx" : "29",
+      "n_agree" : 7,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為公部門單位要首先自身好好的認識好的文化藝術，才有可能帶動普羅大眾的藝術文化涵養",
+      "id" : 7,
+      "idx" : "30",
+      "n_agree" : 5,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "我認為既有的文化或藝文園區，場館或進駐場地，不應因政治人物關說任意挪作他用",
+      "id" : 8,
+      "idx" : "21",
+      "n_agree" : 41,
+      "n_disagree" : 1,
+      "percentage" : 97.61
+   },
+   {
+      "comment_body" : "我認為文化預算應優先用於補助創作及保留文化資產，而非用於一次性活動",
+      "id" : 9,
+      "idx" : "13",
+      "n_agree" : 36,
+      "n_disagree" : 1,
+      "percentage" : 97.29
+   },
+   {
+      "comment_body" : "我認為中央各級地方縣市政府，都應該檢討空間、藝文園區的政策，真切的思考藝文工作者的需求，拜託真心去協助他們啊!!!如交通、市場、推廣、生存等等，而不是將藝文人士當作活化場館的工具或是包裝紙。(不要一付那種我有給你，是你不來用的那種高傲的心態…)",
+      "id" : 10,
+      "idx" : "22",
+      "n_agree" : 34,
+      "n_disagree" : 1,
+      "percentage" : 97.14
+   },
+   {
+      "comment_body" : "我希望能縮短城鄉差距，讓表演藝術普及到各地區的文化中心。",
+      "id" : 11,
+      "idx" : "7",
+      "n_agree" : 38,
+      "n_disagree" : 2,
+      "percentage" : 95
+   },
+   {
+      "comment_body" : "我認為全臺各地的XX節太多了，應該要減少大型節慶的預算經費，真實誠實的面對文化基礎建設、人才培育、開拓市場的問題。",
+      "id" : 12,
+      "idx" : "20",
+      "n_agree" : 38,
+      "n_disagree" : 2,
+      "percentage" : 95
+   },
+   {
+      "comment_body" : "我認為連結人與土地間的關係很重要。",
+      "id" : 13,
+      "idx" : "27",
+      "n_agree" : 14,
+      "n_disagree" : 1,
+      "percentage" : 93.33
+   },
+   {
+      "comment_body" : "我有看現場戲劇表演的習慣。",
+      "id" : 14,
+      "idx" : "2",
+      "n_agree" : 39,
+      "n_disagree" : 3,
+      "percentage" : 92.85
+   },
+   {
+      "comment_body" : "我認為人才的培育，政府的補助應該要先認「藝文工作有價」，運用彈性的方式使得優秀工作者能夠有足額的獎金或是工作的人事薪資。",
+      "id" : 15,
+      "idx" : "14",
+      "n_agree" : 34,
+      "n_disagree" : 3,
+      "percentage" : 91.89
+   },
+   {
+      "comment_body" : "我有看現場音樂表演的習慣。",
+      "id" : 16,
+      "idx" : "0",
+      "n_agree" : 36,
+      "n_disagree" : 4,
+      "percentage" : 90
+   },
+   {
+      "comment_body" : "我認為文化環境是整體的，惟有從核心的根本價值去帶動「文化工作者」的工作價值，較現實的說法是薪資或是「光榮感」，才能翻轉文化弱勢邊緣的地位。",
+      "id" : 17,
+      "idx" : "16",
+      "n_agree" : 26,
+      "n_disagree" : 3,
+      "percentage" : 89.65
+   },
+   {
+      "comment_body" : "我認為政府應帶頭，台灣文化、影視或是表演藝術產業，因製作費普遍不足，在各個層面自砍身價的狀況非常嚴重。",
+      "id" : 18,
+      "idx" : "15",
+      "n_agree" : 31,
+      "n_disagree" : 4,
+      "percentage" : 88.57
+   },
+   {
+      "comment_body" : "我認為表演藝術的補助應該減化行政程序，避免用表格研考的邏輯，避免主計治國，避免文化行政化。",
+      "id" : 19,
+      "idx" : "12",
+      "n_agree" : 30,
+      "n_disagree" : 4,
+      "percentage" : 88.23
+   },
+   {
+      "comment_body" : "我看現場表演，是為了體驗舞台、聲光、空間的設計。",
+      "id" : 20,
+      "idx" : "3",
+      "n_agree" : 37,
+      "n_disagree" : 5,
+      "percentage" : 88.09
+   },
+   {
+      "comment_body" : "我認為表演藝術界「台北化」的問題很嚴重，目光、眼光過於集中首都，政府應有計劃的讓表演藝術評論或是關注，走出「天龍國」。",
+      "id" : 21,
+      "idx" : "18",
+      "n_agree" : 28,
+      "n_disagree" : 4,
+      "percentage" : 87.5
+   },
+   {
+      "comment_body" : "我看現場表演，是為了和周遭的參與者一起投入、感受互動的氣氛。",
+      "id" : 22,
+      "idx" : "5",
+      "n_agree" : 40,
+      "n_disagree" : 6,
+      "percentage" : 86.95
+   },
+   {
+      "comment_body" : "我有看現場舞蹈表演的習慣。",
+      "id" : 23,
+      "idx" : "1",
+      "n_agree" : 38,
+      "n_disagree" : 7,
+      "percentage" : 84.44
+   },
+   {
+      "comment_body" : "有金馬獎、金曲獎，我認為表演藝術應該也有有個年度最佳戲劇或是舞蹈家的獎項。",
+      "id" : 24,
+      "idx" : "17",
+      "n_agree" : 26,
+      "n_disagree" : 6,
+      "percentage" : 81.25
+   },
+   {
+      "comment_body" : "我認為現在補助審查的劇場美學過於菁英化，一直用學術性的菁英化的思維在審核獲補的劇本/演出/創作，導致最後呈現的結果，其實呈現過度單一的面貌，是導致大者恆大的原因之一。",
+      "id" : 25,
+      "idx" : "23",
+      "n_agree" : 27,
+      "n_disagree" : 7,
+      "percentage" : 79.41
+   },
+   {
+      "comment_body" : "我認為關於政府補助表演藝術團隊，應該要優先補助新興及中小型表演藝術團體。",
+      "id" : 26,
+      "idx" : "10",
+      "n_agree" : 23,
+      "n_disagree" : 6,
+      "percentage" : 79.31
+   },
+   {
+      "comment_body" : "我看現場表演，是為了和藝術家在同一個地方，呼吸同一個空氣。",
+      "id" : 27,
+      "idx" : "4",
+      "n_agree" : 30,
+      "n_disagree" : 10,
+      "percentage" : 75
+   },
+   {
+      "comment_body" : "我希望看到更多表演能結合科技，創造新形態的數位藝術。",
+      "id" : 28,
+      "idx" : "6",
+      "n_agree" : 26,
+      "n_disagree" : 9,
+      "percentage" : 74.28
+   },
+   {
+      "comment_body" : "我認為應該優先興建表演藝術中小型場館，如黑盒子實驗劇場。",
+      "id" : 29,
+      "idx" : "11",
+      "n_agree" : 25,
+      "n_disagree" : 9,
+      "percentage" : 73.52
+   },
+   {
+      "comment_body" : "我認為現在的表演藝術補助過於向市場靠攏，為求績效，很有「市場」賣得好的演出團隊，或是偶像化經營可以得到更多的補助，是導致大者恆大的原因之一，然而這不算是一個好現象。",
+      "id" : 30,
+      "idx" : "24",
+      "n_agree" : 18,
+      "n_disagree" : 7,
+      "percentage" : 72
+   },
+   {
+      "comment_body" : "我希望政府補助雲門、擊樂、紙風車、優人、明華園等知名團隊，國際巡演、走向世界。",
+      "id" : 31,
+      "idx" : "8",
+      "n_agree" : 16,
+      "n_disagree" : 16,
+      "percentage" : 50
+   }
+]
