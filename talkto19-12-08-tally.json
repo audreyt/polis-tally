@@ -1,0 +1,146 @@
+[
+   {
+      "comment_body" : "原創內容與其談量，應該先從質談起，把觀眾與製作人才培養好，像是一把青、命中註定我愛你、白色巨塔、瘋台灣、麻醉風暴、......等等",
+      "id" : 1,
+      "idx" : "10",
+      "n_agree" : 16,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "台灣對於原創的不重視其實發生在各個產業",
+      "id" : 2,
+      "idx" : "0",
+      "n_agree" : 19,
+      "n_disagree" : 1,
+      "percentage" : 95
+   },
+   {
+      "comment_body" : "電視台必須從速成的代理，一步一腳印投資在原創內容上",
+      "id" : 3,
+      "idx" : "3",
+      "n_agree" : 18,
+      "n_disagree" : 1,
+      "percentage" : 94.73
+   },
+   {
+      "comment_body" : "1. 台灣對於原創的不重視其實在各個產業都有發生，原因來自於台灣經濟發展上的偏食",
+      "id" : 4,
+      "idx" : "1",
+      "n_agree" : 15,
+      "n_disagree" : 1,
+      "percentage" : 93.75
+   },
+   {
+      "comment_body" : "台灣電視需要訂閱制，而不要被AC尼爾森綁架，讓電視台直接面對觀眾/消費者",
+      "id" : 5,
+      "idx" : "6",
+      "n_agree" : 15,
+      "n_disagree" : 1,
+      "percentage" : 93.75
+   },
+   {
+      "comment_body" : "文化部需要調整補助內容產業的辦法，鼓勵台灣創作人走出去，而不是加以限制中方投資，讓補助產生排擠效應",
+      "id" : 6,
+      "idx" : "7",
+      "n_agree" : 15,
+      "n_disagree" : 1,
+      "percentage" : 93.75
+   },
+   {
+      "comment_body" : "因為平台眾多，現在是內容創業最好的時間",
+      "id" : 7,
+      "idx" : "2",
+      "n_agree" : 14,
+      "n_disagree" : 1,
+      "percentage" : 93.33
+   },
+   {
+      "comment_body" : "談話節目是台灣目前的濫觴",
+      "id" : 8,
+      "idx" : "9",
+      "n_agree" : 14,
+      "n_disagree" : 1,
+      "percentage" : 93.33
+   },
+   {
+      "comment_body" : "台灣電視節目應該多點教育性質來提高節目深度",
+      "id" : 9,
+      "idx" : "13",
+      "n_agree" : 12,
+      "n_disagree" : 1,
+      "percentage" : 92.3
+   },
+   {
+      "comment_body" : "總是想要速成高收視率代理，台灣電視節目多久沒有拍出好節目、戲劇，不肯投資培養各種節目人才、設備",
+      "id" : 10,
+      "idx" : "16",
+      "n_agree" : 8,
+      "n_disagree" : 1,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "電視台錯誤的相信收視率，導致只提供給觀眾想看的，而不是該看的",
+      "id" : 11,
+      "idx" : "4",
+      "n_agree" : 14,
+      "n_disagree" : 2,
+      "percentage" : 87.5
+   },
+   {
+      "comment_body" : "電視媒體式微，除了廣告被抽銀根的原因之外，台灣電視台媒體都沒有投資的意願在有水準的影集或是除了名嘴或是討論二三線藝人私生活外的節目或是紀錄片???????",
+      "id" : 12,
+      "idx" : "17",
+      "n_agree" : 6,
+      "n_disagree" : 1,
+      "percentage" : 85.71
+   },
+   {
+      "comment_body" : "電視也是極具影響力的內容產業，因此非常需要朝「影響力經濟」而非「注意力經濟」發展",
+      "id" : 13,
+      "idx" : "11",
+      "n_agree" : 11,
+      "n_disagree" : 2,
+      "percentage" : 84.61
+   },
+   {
+      "comment_body" : "對於Netflix, 愛奇藝, OTT業者大舉來襲，台灣政府應該有相關的法律對應版權、稅收....等等",
+      "id" : 14,
+      "idx" : "8",
+      "n_agree" : 15,
+      "n_disagree" : 3,
+      "percentage" : 83.33
+   },
+   {
+      "comment_body" : "「電視兒童」這個名詞已經逐漸不存在了",
+      "id" : 15,
+      "idx" : "12",
+      "n_agree" : 12,
+      "n_disagree" : 3,
+      "percentage" : 80
+   },
+   {
+      "comment_body" : "用收視率來決定節目品質是錯誤的觀念，應該是由內容被討論的踴躍度來決定節目的影響力。",
+      "id" : 16,
+      "idx" : "14",
+      "n_agree" : 14,
+      "n_disagree" : 4,
+      "percentage" : 77.77
+   },
+   {
+      "comment_body" : "拍不出高質量節目、戲劇、偶像劇",
+      "id" : 17,
+      "idx" : "15",
+      "n_agree" : 5,
+      "n_disagree" : 3,
+      "percentage" : 62.5
+   },
+   {
+      "comment_body" : "即便新媒體興起，電視還是代表整個社會大眾的聲音",
+      "id" : 18,
+      "idx" : "5",
+      "n_agree" : 8,
+      "n_disagree" : 8,
+      "percentage" : 50
+   }
+]
