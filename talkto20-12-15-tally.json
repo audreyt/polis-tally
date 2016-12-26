@@ -1,0 +1,90 @@
+[
+   {
+      "comment_body" : "文化部輔導金(不具回收機制)應調整提供予實驗性與多元性的題材，大型預算的商業片或跨國製作政府可以投資（身為股東/投資人，具回收機制）的方式給予資金",
+      "id" : 1,
+      "idx" : "7",
+      "n_agree" : 16,
+      "n_disagree" : 1,
+      "percentage" : 94.11
+   },
+   {
+      "comment_body" : "電影分級制應該調整為建議分級制",
+      "id" : 2,
+      "idx" : "5",
+      "n_agree" : 13,
+      "n_disagree" : 1,
+      "percentage" : 92.85
+   },
+   {
+      "comment_body" : "應該取消中國電影一年限制十部進口的禁令，讓市場回應，文化歸文化",
+      "id" : 3,
+      "idx" : "6",
+      "n_agree" : 20,
+      "n_disagree" : 2,
+      "percentage" : 90.9
+   },
+   {
+      "comment_body" : "對於台灣電影是否能夠在世界各影展被看見，資金扮演一定程度的角色",
+      "id" : 4,
+      "idx" : "9",
+      "n_agree" : 18,
+      "n_disagree" : 2,
+      "percentage" : 90
+   },
+   {
+      "comment_body" : "我覺得台灣電影題材可以嘗試創新，而不是一直走安全的小清新愛情路線。",
+      "id" : 5,
+      "idx" : "3",
+      "n_agree" : 24,
+      "n_disagree" : 3,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "台灣電影的票房透明化是有配套公開的必要性",
+      "id" : 6,
+      "idx" : "4",
+      "n_agree" : 16,
+      "n_disagree" : 2,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "台灣電影最迫切的問題是，欠缺研發劇本的人才（不一定是指編劇），自然也就經常欠缺好劇本。",
+      "id" : 7,
+      "idx" : "8",
+      "n_agree" : 16,
+      "n_disagree" : 2,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "希望烈姐能投入專職前期開發原創故事,整合台灣所有製作團隊,後端發行顧問",
+      "id" : 8,
+      "idx" : "10",
+      "n_agree" : 8,
+      "n_disagree" : 1,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "台灣電影要好看，演員素質也是關鍵之一。",
+      "id" : 9,
+      "idx" : "1",
+      "n_agree" : 24,
+      "n_disagree" : 4,
+      "percentage" : 85.71
+   },
+   {
+      "comment_body" : "我覺得台灣電影人的實力一直沒有被國際舞台看到。",
+      "id" : 10,
+      "idx" : "2",
+      "n_agree" : 11,
+      "n_disagree" : 10,
+      "percentage" : 52.38
+   },
+   {
+      "comment_body" : "我覺得台灣電影一直停留在小清新主題，走不出其他路數",
+      "id" : 11,
+      "idx" : "0",
+      "n_agree" : 14,
+      "n_disagree" : 15,
+      "percentage" : 48.27
+   }
+]
