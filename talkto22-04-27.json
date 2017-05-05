@@ -1,0 +1,74 @@
+[
+   {
+      "comment_body" : "新科技網路時代可以讓咨詢更流通，加大政策制定的透明度，可以幫助擴大公民參與政治。",
+      "id" : 1,
+      "idx" : "2",
+      "n_agree" : 40,
+      "n_disagree" : 2,
+      "percentage" : 95.23
+   },
+   {
+      "comment_body" : "目前的政府是個陳舊的機器，年輕世代需要更積極的參與與投入，台灣才能帶來改變。",
+      "id" : 2,
+      "idx" : "5",
+      "n_agree" : 32,
+      "n_disagree" : 4,
+      "percentage" : 88.88
+   },
+   {
+      "comment_body" : "我們都受夠了台灣政治被老人操控，新一代政治家可以給台灣政治帶來新血，新景象",
+      "id" : 3,
+      "idx" : "0",
+      "n_agree" : 29,
+      "n_disagree" : 4,
+      "percentage" : 87.87
+   },
+   {
+      "comment_body" : "兩位祖上都有落髮的基因，請問有無保養的秘訣？",
+      "id" : 4,
+      "idx" : "7",
+      "n_agree" : 7,
+      "n_disagree" : 1,
+      "percentage" : 87.5
+   },
+   {
+      "comment_body" : "在立法院，兩位的專業發揮了什麼作用，以及覺得要再學習的是什麼？",
+      "id" : 5,
+      "idx" : "6",
+      "n_agree" : 12,
+      "n_disagree" : 2,
+      "percentage" : 85.71
+   },
+   {
+      "comment_body" : "雖然對政府不滿，但青年世代可以用選票改變政治環境。",
+      "id" : 6,
+      "idx" : "4",
+      "n_agree" : 34,
+      "n_disagree" : 6,
+      "percentage" : 85
+   },
+   {
+      "comment_body" : "想聽聽兩位「新浪潮」委員，剛剛講到地方派系、樁腳的現象，請問兩位委員如何處理金權政治衍伸出來的問題？",
+      "id" : 7,
+      "idx" : "8",
+      "n_agree" : 8,
+      "n_disagree" : 2,
+      "percentage" : 80
+   },
+   {
+      "comment_body" : "立委做事都是為了地區選票，他們不懂也不在乎台灣的整體利益。",
+      "id" : 8,
+      "idx" : "3",
+      "n_agree" : 23,
+      "n_disagree" : 14,
+      "percentage" : 62.16
+   },
+   {
+      "comment_body" : "政二代不可能破舊立新，他們擺脫不了上一代的包袱，因為他們就是那樣被養成的。",
+      "id" : 9,
+      "idx" : "1",
+      "n_agree" : 16,
+      "n_disagree" : 18,
+      "percentage" : 47.05
+   }
+]
