@@ -1,0 +1,122 @@
+[
+   {
+      "comment_body" : "所謂智慧平台、科技輔助教育，都是給孩子擁有更多不同的選擇，更容易接觸多樣性的知識與技能。",
+      "id" : 1,
+      "idx" : "14",
+      "n_agree" : 8,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "台灣應該更開放體制外和實驗性教育？",
+      "id" : 2,
+      "idx" : "4",
+      "n_agree" : 45,
+      "n_disagree" : 1,
+      "percentage" : 97.82
+   },
+   {
+      "comment_body" : "了解自己，探索自我，找到 I am, I can, I will",
+      "id" : 3,
+      "idx" : "12",
+      "n_agree" : 28,
+      "n_disagree" : 1,
+      "percentage" : 96.55
+   },
+   {
+      "comment_body" : "基礎哲學教育是重要的",
+      "id" : 4,
+      "idx" : "10",
+      "n_agree" : 37,
+      "n_disagree" : 2,
+      "percentage" : 94.87
+   },
+   {
+      "comment_body" : "當學校開始倡議生命平等價值的基礎觀念時，其他的問題才能開始有正向的循環，甚至影響到需要被再教育的家長與我們。生命平等價值的基礎其實就是真正的學習怎麼去愛。當我要往愛的方向追尋時，自然而然就會提升觀察與感受的敏感度。有了這樣的基礎，孩子才能對自己的未來擁有更多的想像。而，才是根本。",
+      "id" : 5,
+      "idx" : "13",
+      "n_agree" : 13,
+      "n_disagree" : 2,
+      "percentage" : 86.66
+   },
+   {
+      "comment_body" : "台灣的普及式教育，無法讓有天賦的學生得到適當的幫助，很多天才因此被埋沒。",
+      "id" : 6,
+      "idx" : "1",
+      "n_agree" : 38,
+      "n_disagree" : 7,
+      "percentage" : 84.44
+   },
+   {
+      "comment_body" : "現行的實驗性教育若規劃與執行者觀念與方法仍然陳腐甚至敷衍了事，以為找了有意願與時間的校外專業人士，但也只是繼續把許多陳舊與我們討論想改變的現狀繼續灌輸給下一代，完成了流程而已。",
+      "id" : 7,
+      "idx" : "7",
+      "n_agree" : 34,
+      "n_disagree" : 7,
+      "percentage" : 82.92
+   },
+   {
+      "comment_body" : "智慧教育平台可以讓所有人都能得到公平、高品質的教育。",
+      "id" : 8,
+      "idx" : "2",
+      "n_agree" : 32,
+      "n_disagree" : 10,
+      "percentage" : 76.19
+   },
+   {
+      "comment_body" : "台灣的教育問題在於資源分配不均，偏鄉學生得不到公平的教育機會。",
+      "id" : 9,
+      "idx" : "0",
+      "n_agree" : 35,
+      "n_disagree" : 11,
+      "percentage" : 76.08
+   },
+   {
+      "comment_body" : "儒家文化深植台灣教育，反對獨立思考，服從權力體制，這樣的體制教育出來的只是一群羊？",
+      "id" : 10,
+      "idx" : "3",
+      "n_agree" : 29,
+      "n_disagree" : 12,
+      "percentage" : 70.73
+   },
+   {
+      "comment_body" : "人類對「愛」和「美」的感知是機器人無法取代的，所以培養孩子的人文藝術修養比學寫程式重要？",
+      "id" : 11,
+      "idx" : "6",
+      "n_agree" : 26,
+      "n_disagree" : 13,
+      "percentage" : 66.66
+   },
+   {
+      "comment_body" : "人性也包含了許多深植難以改變的習性與矛盾，與其如此，許多通識甚至專業若非有幸遇到好的指導者，否則不如透過科技學習。",
+      "id" : 12,
+      "idx" : "8",
+      "n_agree" : 26,
+      "n_disagree" : 15,
+      "percentage" : 63.41
+   },
+   {
+      "comment_body" : "是否因為教育的通識化，而埋沒了共多專業領域的人才培養嗎?",
+      "id" : 13,
+      "idx" : "11",
+      "n_agree" : 22,
+      "n_disagree" : 13,
+      "percentage" : 62.85
+   },
+   {
+      "comment_body" : "為了迎上數位時代，應該從更小就教育孩子寫程式？",
+      "id" : 14,
+      "idx" : "5",
+      "n_agree" : 19,
+      "n_disagree" : 26,
+      "percentage" : 42.22
+   },
+   {
+      "comment_body" : "那可以我們都在電腦前各自學習，只有體育或是戶外等需要團隊互動的課程再聚集一起各種型態的教室如球場、山林、研究室嗎？",
+      "id" : 15,
+      "idx" : "9",
+      "n_agree" : 5,
+      "n_disagree" : 33,
+      "percentage" : 13.15
+   }
+]

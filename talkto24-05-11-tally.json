@@ -1,0 +1,58 @@
+[
+   {
+      "comment_body" : "小編是社群經營的靈魂嗎？",
+      "id" : 1,
+      "idx" : "1",
+      "n_agree" : 32,
+      "n_disagree" : 12,
+      "percentage" : 72.72
+   },
+   {
+      "comment_body" : "要打破同溫層，就要不斷地創新？",
+      "id" : 2,
+      "idx" : "3",
+      "n_agree" : 28,
+      "n_disagree" : 14,
+      "percentage" : 66.66
+   },
+   {
+      "comment_body" : "沒有所謂的同溫層，人本來就是物以類聚？",
+      "id" : 3,
+      "idx" : "2",
+      "n_agree" : 20,
+      "n_disagree" : 20,
+      "percentage" : 50
+   },
+   {
+      "comment_body" : "粉絲數量是衡量社群行銷的重要指標嗎？",
+      "id" : 4,
+      "idx" : "6",
+      "n_agree" : 17,
+      "n_disagree" : 23,
+      "percentage" : 42.5
+   },
+   {
+      "comment_body" : "所謂「酸民」只是普通人把自己的想法和感受直接表達出來嗎？",
+      "id" : 5,
+      "idx" : "5",
+      "n_agree" : 7,
+      "n_disagree" : 32,
+      "percentage" : 17.94
+   },
+   {
+      "comment_body" : "TA 已經過時了，只要把內容做好，大家就會喜歡？",
+      "id" : 6,
+      "idx" : "0",
+      "n_agree" : 6,
+      "n_disagree" : 32,
+      "percentage" : 15.78
+   },
+   {
+      "comment_body" : "社群時代的危機處理就是冷處理嗎？",
+      "id" : 7,
+      "idx" : "4",
+      "n_agree" : 3,
+      "n_disagree" : 42,
+      "percentage" : 6.66
+   }
+]
