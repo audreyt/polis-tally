@@ -1,0 +1,186 @@
+[
+   {
+      "comment_body" : "網路科技讓更多獨立創作者得到發揮的空間？",
+      "id" : 1,
+      "idx" : "7",
+      "n_agree" : 23,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "政府該做的是打造一個適合獨立產業發展的大環境，而不是一味地用錢補助？",
+      "id" : 2,
+      "idx" : "8",
+      "n_agree" : 22,
+      "n_disagree" : 1,
+      "percentage" : 95.65
+   },
+   {
+      "comment_body" : "獨立音樂與流行音樂並不是對立面，因為它們同樣都屬於台灣音樂，希望流行音樂與獨立音樂相互合作，藉由合作，對獨立音樂來說能打開能見度，對流行音樂來說，可增加新的理念。",
+      "id" : 3,
+      "idx" : "21",
+      "n_agree" : 13,
+      "n_disagree" : 1,
+      "percentage" : 92.85
+   },
+   {
+      "comment_body" : "流行音樂與獨立音樂並不是對立面，因為它們都是屬於台灣音樂，希望它們可以相互合作，對獨立音樂來說可以增加能見度，對流行音樂來說，可增加新的理念。希望台灣的音樂可以推廣到全世界。",
+      "id" : 4,
+      "idx" : "22",
+      "n_agree" : 13,
+      "n_disagree" : 1,
+      "percentage" : 92.85
+   },
+   {
+      "comment_body" : "不管主流或獨立音樂，對聽眾來說好音樂就是好音樂。但如何讓每個想做音樂的人能有機會平等取得需要資源的平台或管道比較重要。",
+      "id" : 5,
+      "idx" : "13",
+      "n_agree" : 18,
+      "n_disagree" : 2,
+      "percentage" : 90
+   },
+   {
+      "comment_body" : "在政府的政策規劃上，是否該將資源回饋到創作者本身並維持永續性？",
+      "id" : 6,
+      "idx" : "20",
+      "n_agree" : 12,
+      "n_disagree" : 2,
+      "percentage" : 85.71
+   },
+   {
+      "comment_body" : "政府應該多補助年輕人返鄉創業嗎？",
+      "id" : 7,
+      "idx" : "1",
+      "n_agree" : 16,
+      "n_disagree" : 3,
+      "percentage" : 84.21
+   },
+   {
+      "comment_body" : "教育應該如何乘載多元文化與音樂，我們如何創造新的消費文化與新一批了解音樂的消費者？現行課綱政策該如何調整？",
+      "id" : 8,
+      "idx" : "12",
+      "n_agree" : 5,
+      "n_disagree" : 1,
+      "percentage" : 83.33
+   },
+   {
+      "comment_body" : "我們應該接受多元類型的音樂，不要總是把主流和獨立對立，好音樂是沒有界限的？",
+      "id" : 9,
+      "idx" : "9",
+      "n_agree" : 19,
+      "n_disagree" : 4,
+      "percentage" : 82.6
+   },
+   {
+      "comment_body" : "是不是該用政策獎勵機制固力青少年參與體制外音樂活動？兩位認為現行環境下發展創作交流平台是可行的嗎？",
+      "id" : 10,
+      "idx" : "15",
+      "n_agree" : 5,
+      "n_disagree" : 2,
+      "percentage" : 71.42
+   },
+   {
+      "comment_body" : "對於原創音樂內容的在地化／在地性特質，我們要如何屏棄政治意識的型態，進而創造認同？",
+      "id" : 11,
+      "idx" : "16",
+      "n_agree" : 5,
+      "n_disagree" : 2,
+      "percentage" : 71.42
+   },
+   {
+      "comment_body" : "如何用政策獎勵機制固力青少年參與體制外音樂活動？兩位認為現行環境下發展創作交流平台是可行的嗎？",
+      "id" : 12,
+      "idx" : "19",
+      "n_agree" : 5,
+      "n_disagree" : 2,
+      "percentage" : 71.42
+   },
+   {
+      "comment_body" : "例如國民教育中要求中小學生寫課外讀物寫心得，卻不會要聆聽音樂專輯寫心得，我們的義務教育中對於音樂素養的建立遠遠不夠，需要改革，對嗎？",
+      "id" : 13,
+      "idx" : "14",
+      "n_agree" : 7,
+      "n_disagree" : 3,
+      "percentage" : 70
+   },
+   {
+      "comment_body" : "過於仰賴政府補助會讓獨立樂隊喪失創作和自我經營的動力嗎？",
+      "id" : 14,
+      "idx" : "2",
+      "n_agree" : 12,
+      "n_disagree" : 7,
+      "percentage" : 63.15
+   },
+   {
+      "comment_body" : "玖壹壹樂團之所以紅是因為他們抓住了非天龍國人的心？",
+      "id" : 15,
+      "idx" : "0",
+      "n_agree" : 10,
+      "n_disagree" : 8,
+      "percentage" : 55.55
+   },
+   {
+      "comment_body" : "現行音樂補助政策是合理的嗎？補助政策核心關懷對象是創作者合理嗎？換成民眾或者與唱片業者合理嗎？",
+      "id" : 16,
+      "idx" : "11",
+      "n_agree" : 5,
+      "n_disagree" : 4,
+      "percentage" : 55.55
+   },
+   {
+      "comment_body" : "對於原創音樂內容的在地化／在地性特質，我們該屏棄政治意識的型態，進而創造認同？",
+      "id" : 17,
+      "idx" : "18",
+      "n_agree" : 7,
+      "n_disagree" : 6,
+      "percentage" : 53.84
+   },
+   {
+      "comment_body" : "獨立音樂比主流音樂更能代表年輕人的心聲嗎？",
+      "id" : 18,
+      "idx" : "3",
+      "n_agree" : 8,
+      "n_disagree" : 7,
+      "percentage" : 53.33
+   },
+   {
+      "comment_body" : "獨立精神就是堅持自己的信念，不管別人怎麼想，怎麼做嗎？",
+      "id" : 19,
+      "idx" : "6",
+      "n_agree" : 8,
+      "n_disagree" : 10,
+      "percentage" : 44.44
+   },
+   {
+      "comment_body" : "獨立音樂和流行音樂到底有什麼區分？在台灣是否有過度界定的現象？國外僅用音樂僅用類型區分而不是獨立，我們該用商業模式去區分獨立或主流音樂嗎？",
+      "id" : 20,
+      "idx" : "10",
+      "n_agree" : 4,
+      "n_disagree" : 6,
+      "percentage" : 40
+   },
+   {
+      "comment_body" : "商業邏輯與獨立精神是背道而馳的嗎？",
+      "id" : 21,
+      "idx" : "4",
+      "n_agree" : 5,
+      "n_disagree" : 8,
+      "percentage" : 38.46
+   },
+   {
+      "comment_body" : "音樂展演活動是否須如電影或書籍一樣進行分級，是嗎？",
+      "id" : 22,
+      "idx" : "17",
+      "n_agree" : 4,
+      "n_disagree" : 12,
+      "percentage" : 25
+   },
+   {
+      "comment_body" : "發展觀光產業會破壞原住民的傳統文化。",
+      "id" : 23,
+      "idx" : "5",
+      "n_agree" : 2,
+      "n_disagree" : 17,
+      "percentage" : 10.52
+   }
+]
