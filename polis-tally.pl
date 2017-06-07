@@ -49,5 +49,5 @@ unless ($out) {
     $csv =~ s/(?:\.csv|\.json)?$/.csv/;
     my @cols = sort keys %{ $result[0] };
     my $aoa = [ \@cols, map { [ @{$_}{@cols}]  } @result ];
-    csv(in => $aoa, out => $csv);
+    csv(in => $aoa, out => $csv, encoding => 'utf8');
 }
