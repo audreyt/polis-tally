@@ -1,0 +1,58 @@
+[
+   {
+      "comment_body" : "1‭.‬    政府對表演藝術缺乏全盤的思考？",
+      "id" : 1,
+      "idx" : "0",
+      "n_agree" : 17,
+      "n_disagree" : 0,
+      "percentage" : 100
+   },
+   {
+      "comment_body" : "7‭.‬    地方文化中心應該好好被利用，來拓展表演藝術文化？",
+      "id" : 2,
+      "idx" : "6",
+      "n_agree" : 17,
+      "n_disagree" : 1,
+      "percentage" : 94.44
+   },
+   {
+      "comment_body" : "5‭.‬    大學藝術科系應設立管理與科技相關的課程？",
+      "id" : 3,
+      "idx" : "4",
+      "n_agree" : 15,
+      "n_disagree" : 1,
+      "percentage" : 93.75
+   },
+   {
+      "comment_body" : "4‭.‬    政府不應該總是補助那些已經很大的表演團體？",
+      "id" : 4,
+      "idx" : "3",
+      "n_agree" : 11,
+      "n_disagree" : 3,
+      "percentage" : 78.57
+   },
+   {
+      "comment_body" : "6‭.‬    科技部和文化部應整合資源發展數位科技藝術？",
+      "id" : 5,
+      "idx" : "5",
+      "n_agree" : 11,
+      "n_disagree" : 3,
+      "percentage" : 78.57
+   },
+   {
+      "comment_body" : "2‭.‬    台北數位藝術中心閉館是文化政策倒退的表現？",
+      "id" : 6,
+      "idx" : "1",
+      "n_agree" : 7,
+      "n_disagree" : 2,
+      "percentage" : 77.77
+   },
+   {
+      "comment_body" : "3‭.‬    表演藝術應走產業化道路，不靠政府補助？",
+      "id" : 7,
+      "idx" : "2",
+      "n_agree" : 6,
+      "n_disagree" : 9,
+      "percentage" : 40
+   }
+]
