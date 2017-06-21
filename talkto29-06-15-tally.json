@@ -1,0 +1,58 @@
+[
+   {
+      "comment_body" : "台灣應該更積極開放外國人才？",
+      "id" : 1,
+      "idx" : "3",
+      "n_agree" : 20,
+      "n_disagree" : 1,
+      "percentage" : 95.23
+   },
+   {
+      "comment_body" : "台灣政府對青年創業的支持很有限？",
+      "id" : 2,
+      "idx" : "0",
+      "n_agree" : 18,
+      "n_disagree" : 2,
+      "percentage" : 90
+   },
+   {
+      "comment_body" : "創業不能靠政府，要靠自己",
+      "id" : 3,
+      "idx" : "1",
+      "n_agree" : 15,
+      "n_disagree" : 5,
+      "percentage" : 75
+   },
+   {
+      "comment_body" : "中國大陸這兩年雖然分享經濟、知識經濟很火紅，但也可能是泡沫？",
+      "id" : 4,
+      "idx" : "6",
+      "n_agree" : 11,
+      "n_disagree" : 8,
+      "percentage" : 57.89
+   },
+   {
+      "comment_body" : "「亞洲矽谷」政策對青創幫助有限？",
+      "id" : 5,
+      "idx" : "4",
+      "n_agree" : 9,
+      "n_disagree" : 7,
+      "percentage" : 56.25
+   },
+   {
+      "comment_body" : "中國大陸政府對台灣青年創業的招手主要是為了統戰？",
+      "id" : 6,
+      "idx" : "2",
+      "n_agree" : 7,
+      "n_disagree" : 12,
+      "percentage" : 36.84
+   },
+   {
+      "comment_body" : "台灣因為市場小，不適合網路產業創業？",
+      "id" : 7,
+      "idx" : "5",
+      "n_agree" : 2,
+      "n_disagree" : 17,
+      "percentage" : 10.52
+   }
+]
